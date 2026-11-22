@@ -1,0 +1,5 @@
+meeting_memory.sqlite
+*.zip
+__pycache__/
+*.tmp
+.idea/

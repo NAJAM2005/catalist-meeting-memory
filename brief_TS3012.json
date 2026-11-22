@@ -1,0 +1,756 @@
+{
+  "team": "TS3012",
+  "meetings_used": [
+    "TS3012a",
+    "TS3012b",
+    "TS3012c"
+  ],
+  "roles": {
+    "A": "project manager",
+    "B": "user interface designer",
+    "C": "industrial designer",
+    "D": "marketing"
+  },
+  "summary": "Team TS3012 has settled on developing a yellow, curved, rubber-cased universal remote control for younger consumers under 40, featuring normal push-buttons, a deluxe LCD screen with an advanced chip, regular batteries, speech recognition, and a beep-and-flash recovery feature, while excluding removable covers from the basic design. For the final meeting, the team still needs to resolve five open disagreements (LCD screen placement, channel and mute button placement, a talking-back speaker, speech microphone placement, and a twelfth keypad button), decide on pending proposals such as a menu button and Chiquita sponsorship, and confirm production costs (since no finance data was available in TS3012c) against the 12.5 Euro target. Ahead of the meeting, B (user interface designer) and C (industrial designer) are collaborating on the internal and external design, D (marketing) is conducting a market analysis, A (project manager) is preparing the year-end project report, and all members need to propose a product name.",
+  "sections": {
+    "decisions": [
+      {
+        "text": "The TV remote control must be original, trendy, and user-friendly.",
+        "owner": "",
+        "citations": [
+          {
+            "meeting_id": "TS3012a",
+            "turn": "TS3012a-12",
+            "speaker": "A",
+            "stamp": "00:01:12",
+            "quote": "we need design a remote control for television set, so, which has to be original, trendy and user-friendly."
+          }
+        ]
+      },
+      {
+        "text": "The remote control should be made of a lightweight material and be highly responsive.",
+        "owner": "",
+        "citations": [
+          {
+            "meeting_id": "TS3012a",
+            "turn": "TS3012a-24",
+            "speaker": "A",
+            "stamp": "00:04:52",
+            "quote": "So that's what we don't want. We want a high-responsive product. So It looks more like nuclear bomb."
+          },
+          {
+            "meeting_id": "TS3012a",
+            "turn": "TS3012a-101",
+            "speaker": "C",
+            "stamp": "00:12:33",
+            "quote": "the material it is made of, it should be something light."
+          },
+          {
+            "meeting_id": "TS3012a",
+            "turn": "TS3012a-104",
+            "speaker": "A",
+            "stamp": "00:12:43",
+            "quote": "It should be light, okay. Um, let's see, where did I Let's skip that. Oh, this is it. Sorry, I skipped this sheet. What do we This Quick What we're going to Selling price, twenty five Euros. That's for you. The production price, twelve and a half Euros, approximately. Just go go for that. We'll reach the uh reach that profit."
+          }
+        ]
+      },
+      {
+        "text": "The product will be a universal remote control rather than a device-specific one.",
+        "owner": "",
+        "citations": [
+          {
+            "meeting_id": "TS3012b",
+            "turn": "TS3012b-139",
+            "speaker": "A",
+            "stamp": "00:16:15",
+            "quote": "I think we should go for universal, because apparently we're a separate company making separate c remote controls to sell to a lot of diverse people."
+          },
+          {
+            "meeting_id": "TS3012b",
+            "turn": "TS3012b-145",
+            "speaker": "A",
+            "stamp": "00:16:35",
+            "quote": "Okay, universal is good. Speech recognition, I think it's very hard, because we're selling across multiple countries. So I think implementing speech recognition is such a small um apparatus, it's very hard to do."
+          }
+        ]
+      },
+      {
+        "text": "The remote control targets younger consumers under 40 rather than older users.",
+        "owner": "",
+        "citations": [
+          {
+            "meeting_id": "TS3012b",
+            "turn": "TS3012b-91",
+            "speaker": "A",
+            "stamp": "00:13:10",
+            "quote": "the younger people were defined under forty."
+          },
+          {
+            "meeting_id": "TS3012b",
+            "turn": "TS3012b-163",
+            "speaker": "A",
+            "stamp": "00:17:41",
+            "quote": "Well, we're not we're not targeting older people, we should remember that. Everything we target is under forty, so."
+          },
+          {
+            "meeting_id": "TS3012c",
+            "turn": "TS3012c-125",
+            "speaker": "A",
+            "stamp": "00:07:53",
+            "quote": "We're definitely focussing on the younger people, 'cause that was our main goal."
+          }
+        ]
+      },
+      {
+        "text": "The design must keep the corporate black-and-yellow colours, logo, and slogan recognisable.",
+        "owner": "",
+        "citations": [
+          {
+            "meeting_id": "TS3012b",
+            "turn": "TS3012b-97",
+            "speaker": "A",
+            "stamp": "00:13:34",
+            "quote": "And one thing that should be important is that the corporate l colour and slogan are recognisable, which is apparently black and yellow"
+          }
+        ]
+      },
+      {
+        "text": "The remote control will be yellow, despite a reservation from B (user interface designer) that a neutral base colour would work better with covers.",
+        "owner": "",
+        "citations": [
+          {
+            "meeting_id": "TS3012c",
+            "turn": "TS3012c-584",
+            "speaker": "B",
+            "stamp": "00:36:54",
+            "quote": "it's better to have a neutral base colour than to have a flashy"
+          },
+          {
+            "meeting_id": "TS3012c",
+            "turn": "TS3012c-593",
+            "speaker": "A",
+            "stamp": "00:37:20",
+            "quote": "I think we should th then take it take yellow. Take what you c yellow remote control."
+          }
+        ]
+      },
+      {
+        "text": "The team will increase durability and prevent button symbols from fading.",
+        "owner": "",
+        "citations": [
+          {
+            "meeting_id": "TS3012b",
+            "turn": "TS3012b-75",
+            "speaker": "A",
+            "stamp": "00:09:03",
+            "quote": "So we agree on the the part that we need to get something on the on the remote to find it somewhere and increase it the durability of of the thing"
+          }
+        ]
+      },
+      {
+        "text": "The interface will use very few buttons focused on basic functions, with the power button on top and channel and volume controls in the main area.",
+        "owner": "",
+        "citations": [
+          {
+            "meeting_id": "TS3012b",
+            "turn": "TS3012b-286",
+            "speaker": "A",
+            "stamp": "00:25:26",
+            "quote": "I think the bu the power button should be on top, 'cause it's the first thing you do, turn it on. So power button on top."
+          },
+          {
+            "meeting_id": "TS3012b",
+            "turn": "TS3012b-412",
+            "speaker": "A",
+            "stamp": "00:31:59",
+            "quote": "Yeah, so we don't want we want very little buttons, just the buttons you use a lot."
+          },
+          {
+            "meeting_id": "TS3012b",
+            "turn": "TS3012b-542",
+            "speaker": "A",
+            "stamp": "00:39:08",
+            "quote": "So we have channel buttons here. I'm just drawing something uh. Uh I think this would this would look cool. You could have it for example small buttons here for some extra functions, so if your basic function's here, we should like we decided before, programmes up and down,"
+          }
+        ]
+      },
+      {
+        "text": "The teletext button will be retained as a small or secondary button.",
+        "owner": "",
+        "citations": [
+          {
+            "meeting_id": "TS3012b",
+            "turn": "TS3012b-89",
+            "speaker": "A",
+            "stamp": "00:12:22",
+            "quote": "Uh Okay, back this up to the screen. So I got some new information on the project specifications are changing a little. Like you said uh teletext is not not very popular anymore because the uh the internet, nowadays people don't use the teletext anymore or hardly, so it can either Well, I don't think we should remove the button, because there are always people who are using it. But I don't think it should be very it should be one of the big buttons for example. Just put it somewhere or under second option or whatever. It's not important anymore. Um we're targeting young people now, because our um"
+          },
+          {
+            "meeting_id": "TS3012b",
+            "turn": "TS3012b-394",
+            "speaker": "B",
+            "stamp": "00:31:10",
+            "quote": "Where would we want the uh teletext button? Because we decided that it's n not that important."
+          }
+        ]
+      },
+      {
+        "text": "The remote control will use regular batteries instead of kinetic energy, solar cells, or a hand dynamo.",
+        "owner": "",
+        "citations": [
+          {
+            "meeting_id": "TS3012c",
+            "turn": "TS3012c-383",
+            "speaker": "A",
+            "stamp": "00:22:57",
+            "quote": "energy, we choose regular regular batteries."
+          }
+        ]
+      },
+      {
+        "text": "The remote control will use an advanced chip to support the deluxe edition's LCD screen and advanced features.",
+        "owner": "",
+        "citations": [
+          {
+            "meeting_id": "TS3012c",
+            "turn": "TS3012c-168",
+            "speaker": "A",
+            "stamp": "00:09:59",
+            "quote": "Don't think it's an issue, okay. Oh let's go for let's say because it is uh very hot in n our target group I think, we should take it take it t to consideration to build an L_C_D_ screen in it."
+          },
+          {
+            "meeting_id": "TS3012c",
+            "turn": "TS3012c-265",
+            "speaker": "A",
+            "stamp": "00:15:36",
+            "quote": "I think we're going towards the deluxe edition anyway, because that seems to be what the people want."
+          },
+          {
+            "meeting_id": "TS3012c",
+            "turn": "TS3012c-383",
+            "speaker": "A",
+            "stamp": "00:22:57",
+            "quote": "The chip is advanced because we have the advanced features."
+          }
+        ]
+      },
+      {
+        "text": "The remote control case will be made of rubber rather than wood or titanium.",
+        "owner": "",
+        "citations": [
+          {
+            "meeting_id": "TS3012c",
+            "turn": "TS3012c-121",
+            "speaker": "A",
+            "stamp": "00:07:35",
+            "quote": "You know what, th we're focusing very much on the covers now. I think it's just w now we're going for the basic design. If we wanna expand our options, f be fashionable, then we can get changeable covers. But I think the basic thing let's just rule out wood for now and continue."
+          },
+          {
+            "meeting_id": "TS3012c",
+            "turn": "TS3012c-383",
+            "speaker": "A",
+            "stamp": "00:22:57",
+            "quote": "The case, it will be the material will be rubber, suppose."
+          }
+        ]
+      },
+      {
+        "text": "The team will round off the sharp edges of B (user interface designer)'s design and curve the whole remote body.",
+        "owner": "",
+        "citations": [
+          {
+            "meeting_id": "TS3012c",
+            "turn": "TS3012c-367",
+            "speaker": "A",
+            "stamp": "00:21:58",
+            "quote": "That's the one thing I'm also afraid of with this one because it the edges are really um they might stick out on the on the side for example. If you have a basic design, a little m a little smaller on the on the s on the edges, you could put more covers on it, y one one with square or um sharp corners if you want to. So M just round it off a little, I guess, because so we have more options I suppose."
+          },
+          {
+            "meeting_id": "TS3012c",
+            "turn": "TS3012c-475",
+            "speaker": "C",
+            "stamp": "00:31:15",
+            "quote": "I would curve the whole. Like um like it hangs over your hand a little bit."
+          }
+        ]
+      },
+      {
+        "text": "The interface will use normal push-buttons and will not include a scroll-wheel.",
+        "owner": "",
+        "citations": [
+          {
+            "meeting_id": "TS3012c",
+            "turn": "TS3012c-156",
+            "speaker": "C",
+            "stamp": "00:09:33",
+            "quote": "Okay. So push-buttons we will use. Uh L_C_D_ screen?"
+          },
+          {
+            "meeting_id": "TS3012c",
+            "turn": "TS3012c-635",
+            "speaker": "A",
+            "stamp": "00:38:37",
+            "quote": "No r no scroll-wheel. Okay. Um I don't see anything missing really."
+          }
+        ]
+      },
+      {
+        "text": "The button shapes will be round for general buttons, triangular for navigation controls, and square for the centre button, over a mild preference for a round centre button from C (industrial designer).",
+        "owner": "",
+        "citations": [
+          {
+            "meeting_id": "TS3012c",
+            "turn": "TS3012c-408",
+            "speaker": "B",
+            "stamp": "00:26:05",
+            "quote": "But in that case the round buttons would be more appropriate."
+          },
+          {
+            "meeting_id": "TS3012c",
+            "turn": "TS3012c-415",
+            "speaker": "A",
+            "stamp": "00:27:06",
+            "quote": "Triangles are good. Yeah, they're a little too big now. But Anyway, okay. So do you want for example a round button in the middle or square one?"
+          },
+          {
+            "meeting_id": "TS3012c",
+            "turn": "TS3012c-420",
+            "speaker": "A",
+            "stamp": "00:27:33",
+            "quote": "We'll just take the take the round button, suppose. Uh oh the square button, sorry."
+          }
+        ]
+      },
+      {
+        "text": "The favourite channel function and an OK button will be assigned to the four extra buttons near the top.",
+        "owner": "",
+        "citations": [
+          {
+            "meeting_id": "TS3012c",
+            "turn": "TS3012c-444",
+            "speaker": "D",
+            "stamp": "00:29:08",
+            "quote": "One of the four. Uh, it's better than, I think."
+          },
+          {
+            "meeting_id": "TS3012c",
+            "turn": "TS3012c-459",
+            "speaker": "B",
+            "stamp": "00:30:02",
+            "quote": "Oh, we're pretty much missing an okay button, but we have a button up there which is still free. So"
+          }
+        ]
+      },
+      {
+        "text": "The remote control will include speech recognition.",
+        "owner": "",
+        "citations": [
+          {
+            "meeting_id": "TS3012c",
+            "turn": "TS3012c-209",
+            "speaker": "B",
+            "stamp": "00:12:11",
+            "quote": "Well, they b they basically can have speech recognition."
+          }
+        ]
+      },
+      {
+        "text": "The remote control will implement a beep-and-flash recovery feature (triggered by a small separate button or box attached to the TV).",
+        "owner": "",
+        "citations": [
+          {
+            "meeting_id": "TS3012b",
+            "turn": "TS3012b-123",
+            "speaker": "A",
+            "stamp": "00:15:16",
+            "quote": "the beep is a very simple thing to imple implement"
+          },
+          {
+            "meeting_id": "TS3012b",
+            "turn": "TS3012b-135",
+            "speaker": "A",
+            "stamp": "00:16:00",
+            "quote": "A slap-on sticker. Oh, you mean as like a separate thing you can attach to your T_V_. Yeah, that could be possible. A little little box you can attach to your T_V_ is fine then, okay."
+          },
+          {
+            "meeting_id": "TS3012c",
+            "turn": "TS3012c-37",
+            "speaker": "A",
+            "stamp": "00:01:55",
+            "quote": "we are going to implement the beep and the flash thing to recover your remote."
+          }
+        ]
+      },
+      {
+        "text": "Removable covers are excluded from the basic design, though they remain a possible future option.",
+        "owner": "",
+        "citations": [
+          {
+            "meeting_id": "TS3012c",
+            "turn": "TS3012c-649",
+            "speaker": "A",
+            "stamp": "00:39:21",
+            "quote": "apparently that's not something we're working with in the basic design."
+          }
+        ]
+      },
+      {
+        "text": "Batteries will be placed in the spacious upper section, while the LCD chip will be placed at the bottom and wired.",
+        "owner": "",
+        "citations": [
+          {
+            "meeting_id": "TS3012c",
+            "turn": "TS3012c-509",
+            "speaker": "A",
+            "stamp": "00:32:46",
+            "quote": "Uh I suppose we can put the batteries in here because it has the most space, for example."
+          },
+          {
+            "meeting_id": "TS3012c",
+            "turn": "TS3012c-518",
+            "speaker": "C",
+            "stamp": "00:33:05",
+            "quote": "You can actually uh place a chip for the L_C_D_ screen and at the bottom, and and wire it."
+          }
+        ]
+      }
+    ],
+    "changes": [
+      {
+        "text": "In TS3012b, product scope changed from being solely a TV remote control (TS3012a) to a universal remote control.",
+        "owner": "",
+        "citations": [
+          {
+            "meeting_id": "TS3012a",
+            "turn": "TS3012a-93",
+            "speaker": "A",
+            "stamp": "00:11:32",
+            "quote": "The project I got was just for a T_V_ remote control."
+          },
+          {
+            "meeting_id": "TS3012b",
+            "turn": "TS3012b-139",
+            "speaker": "A",
+            "stamp": "00:16:15",
+            "quote": "I think we should go for universal, because apparently we're a separate company making separate c remote controls to sell to a lot of diverse people."
+          },
+          {
+            "meeting_id": "TS3012b",
+            "turn": "TS3012b-145",
+            "speaker": "A",
+            "stamp": "00:16:35",
+            "quote": "Okay, universal is good. Speech recognition, I think it's very hard, because we're selling across multiple countries. So I think implementing speech recognition is such a small um apparatus, it's very hard to do."
+          }
+        ]
+      },
+      {
+        "text": "In TS3012c, the recovery locator feature expanded from a locator beep (TS3012b) to a beep-and-flash feature.",
+        "owner": "",
+        "citations": [
+          {
+            "meeting_id": "TS3012b",
+            "turn": "TS3012b-123",
+            "speaker": "A",
+            "stamp": "00:15:16",
+            "quote": "Like you have a little just just a text only, not colour, just a little text thing so you can use your remote as a T_V_ guide. I'm not sure it's even possible, but maybe okay, make it Yeah, find a little compromise in that, but What did I write down? I think the p yeah, the beep is a very simple thing to imple implement, just make a button on your T_V_ and just hit the button, it beeps somewhere. I think it's easy to implement, we should go for that. Uh speech recognition."
+          },
+          {
+            "meeting_id": "TS3012c",
+            "turn": "TS3012c-37",
+            "speaker": "A",
+            "stamp": "00:01:55",
+            "quote": "we are going to implement the beep and the flash thing to recover your remote."
+          }
+        ]
+      },
+      {
+        "text": "In TS3012c, changeable/removable covers changed from being included in the design (TS3012b) to being excluded from the basic design and kept only as a possible future option.",
+        "owner": "",
+        "citations": [
+          {
+            "meeting_id": "TS3012b",
+            "turn": "TS3012b-99",
+            "speaker": "A",
+            "stamp": "00:13:47",
+            "quote": "steal Nokia's idea and just make changeable covers for your"
+          },
+          {
+            "meeting_id": "TS3012b",
+            "turn": "TS3012b-363",
+            "speaker": "A",
+            "stamp": "00:29:32",
+            "quote": "Covers is covers is good. Yeah, it's Oh we can save this. Up and saved. We even saved the ant. Um Okay. So what we have is you have I think you have to do a lot of work on if it's possible for the cost."
+          },
+          {
+            "meeting_id": "TS3012c",
+            "turn": "TS3012c-649",
+            "speaker": "A",
+            "stamp": "00:39:21",
+            "quote": "apparently that's not something we're working with in the basic design."
+          }
+        ]
+      }
+    ],
+    "open_actions": [
+      {
+        "text": "A (project manager) will upload the minutes of every meeting to the shared project folder.",
+        "owner": "A",
+        "citations": [
+          {
+            "meeting_id": "TS3012a",
+            "turn": "TS3012a-18",
+            "speaker": "A",
+            "stamp": "00:03:23",
+            "quote": "just stuff that you wanna share, just put it in the in the project folder, like I put my presentation now."
+          }
+        ]
+      },
+      {
+        "text": "All team members will place any work they want to share into the shared project folder.",
+        "owner": "all",
+        "citations": [
+          {
+            "meeting_id": "TS3012a",
+            "turn": "TS3012a-18",
+            "speaker": "A",
+            "stamp": "00:03:23",
+            "quote": "just stuff that you wanna share, just put it in the in the project folder, like I put my presentation now."
+          }
+        ]
+      },
+      {
+        "text": "All team members will think of a product name for the remote control rather than using a vague serial number.",
+        "owner": "all",
+        "citations": [
+          {
+            "meeting_id": "TS3012b",
+            "turn": "TS3012b-556",
+            "speaker": "C",
+            "stamp": "00:39:52",
+            "quote": "Shall we all try uh to think about a name?"
+          }
+        ]
+      },
+      {
+        "text": "B (user interface designer) and C (industrial designer) will collaborate on the internal and external design before the next meeting.",
+        "owner": "B,C",
+        "citations": [
+          {
+            "meeting_id": "TS3012c",
+            "turn": "TS3012c-385",
+            "speaker": "A",
+            "stamp": "00:23:27",
+            "quote": "apparently you guys, you should work together on the final design, both on internal and external design."
+          },
+          {
+            "meeting_id": "TS3012c",
+            "turn": "TS3012c-602",
+            "speaker": "A",
+            "stamp": "00:37:41",
+            "quote": "You doodle a doodle us a nice nice design for for the next meeting, we'll be done."
+          }
+        ]
+      },
+      {
+        "text": "D (marketing) will conduct a market analysis on how the proposed design will perform in the market.",
+        "owner": "D",
+        "citations": [
+          {
+            "meeting_id": "TS3012c",
+            "turn": "TS3012c-385",
+            "speaker": "A",
+            "stamp": "00:23:27",
+            "quote": "you should probably find out how the product will fall into the market, how uh what's gonna happen with the final design"
+          },
+          {
+            "meeting_id": "TS3012c",
+            "turn": "TS3012c-566",
+            "speaker": "A",
+            "stamp": "00:35:52",
+            "quote": "I think you have to stay here because we are supposed to five minutes to finish the meeting. Oh, like my the info that I got was that you're uh we're gonna work on our own because you're gonna do the market market uh analysing I'm supposed to do the little work on the year-end report. So the project report."
+          }
+        ]
+      },
+      {
+        "text": "A (project manager) will work on the year-end project report.",
+        "owner": "A",
+        "citations": [
+          {
+            "meeting_id": "TS3012c",
+            "turn": "TS3012c-566",
+            "speaker": "A",
+            "stamp": "00:35:52",
+            "quote": "I'm supposed to do the little work on the year-end report. So the project report."
+          }
+        ]
+      }
+    ],
+    "disagreements": [
+      {
+        "text": "LCD screen placement: A (project manager) proposed placing the LCD screen lower down so buttons remain on top, while D (marketing), C (industrial designer), and B (user interface designer) preferred it at the top; no placement has been chosen.",
+        "owner": "",
+        "citations": [
+          {
+            "meeting_id": "TS3012b",
+            "turn": "TS3012b-486",
+            "speaker": "A",
+            "stamp": "00:36:14",
+            "quote": "No? It's not that uh it's not the most important function, it's just an extra thing, it just you press the buttons on top, because your finger is on top."
+          },
+          {
+            "meeting_id": "TS3012b",
+            "turn": "TS3012b-496",
+            "speaker": "A",
+            "stamp": "00:36:53",
+            "quote": "You would prefer it n Okay. So we have three people saying it should be on top."
+          },
+          {
+            "meeting_id": "TS3012b",
+            "turn": "TS3012b-499",
+            "speaker": "A",
+            "stamp": "00:36:58",
+            "quote": "Okay, but then you would would s have to stack away your buttons somewhere else. Anyways."
+          }
+        ]
+      },
+      {
+        "text": "Centre channel and mute button placement: A (project manager) wanted channel buttons in the centre and the mute button at the bottom, whereas B (user interface designer) objected that centre buttons would be too small and preferred mute near the middle.",
+        "owner": "",
+        "citations": [
+          {
+            "meeting_id": "TS3012b",
+            "turn": "TS3012b-289",
+            "speaker": "B",
+            "stamp": "00:25:36",
+            "quote": "Okay, mute button. Is that somewhere here? Is that used often? The mute button? Do people use that often? 'Cause uh I'm pretty much accustomed to it right over here"
+          },
+          {
+            "meeting_id": "TS3012b",
+            "turn": "TS3012b-290",
+            "speaker": "A",
+            "stamp": "00:25:39",
+            "quote": "Mute. Do we hardly I think it should be at the bottom somewhere."
+          },
+          {
+            "meeting_id": "TS3012b",
+            "turn": "TS3012b-522",
+            "speaker": "A",
+            "stamp": "00:38:05",
+            "quote": "I think the channel button should be in the centre."
+          }
+        ]
+      },
+      {
+        "text": "Talking-back speaker feature: C (industrial designer) suggested adding a talking-back confirmation feature using the sample sensor, while B (user interface designer) questioned whether the remote needs to talk back.",
+        "owner": "",
+        "citations": [
+          {
+            "meeting_id": "TS3012c",
+            "turn": "TS3012c-542",
+            "speaker": "C",
+            "stamp": "00:34:29",
+            "quote": "Uh the speaker sensor we already have, but s I don't know what they exactly mean by a sample sensor. Could it talk back? Like uh g uh give confirmation or something. I think it can. I think if you have a a speech recognition component, then a s speaking component is not that hard to to put in either."
+          },
+          {
+            "meeting_id": "TS3012c",
+            "turn": "TS3012c-547",
+            "speaker": "B",
+            "stamp": "00:34:54",
+            "quote": "Yeah, but do you actually need the remote talking back?"
+          }
+        ]
+      },
+      {
+        "text": "Speech recognition microphone placement: B (user interface designer) wanted the microphone combined with the top transmitter, whereas A (project manager) worried about interference and suggested bottom placement or a double microphone.",
+        "owner": "",
+        "citations": [
+          {
+            "meeting_id": "TS3012c",
+            "turn": "TS3012c-526",
+            "speaker": "B",
+            "stamp": "00:33:39",
+            "quote": "Oh, basically the idea that I had was it to be pretty much in combination with the transmitter. 'Cause you can talk to it like this."
+          },
+          {
+            "meeting_id": "TS3012c",
+            "turn": "TS3012c-529",
+            "speaker": "A",
+            "stamp": "00:33:44",
+            "quote": "To be Okay, I w thought maybe it's either be here or because it's mi it might interfere with the transmitter, I'm not sure. But"
+          }
+        ]
+      },
+      {
+        "text": "Twelfth bottom keypad button: A (project manager) wanted a twelfth button next to zero so nothing looks missing, while B (user interface designer) argued twelve keypad buttons are confusing because users expect eleven.",
+        "owner": "",
+        "citations": [
+          {
+            "meeting_id": "TS3012c",
+            "turn": "TS3012c-450",
+            "speaker": "B",
+            "stamp": "00:29:19",
+            "quote": "Because it's a little bit confusing to have twelve buttons down there, because you're only accustomed to eleven, I'd say."
+          },
+          {
+            "meeting_id": "TS3012c",
+            "turn": "TS3012c-452",
+            "speaker": "A",
+            "stamp": "00:29:28",
+            "quote": "think this looks rather like like there's something missing for example."
+          }
+        ]
+      }
+    ],
+    "numbers": [
+      {
+        "text": "Target selling price: 25 Euros.",
+        "owner": "",
+        "citations": [
+          {
+            "meeting_id": "TS3012a",
+            "turn": "TS3012a-104",
+            "speaker": "A",
+            "stamp": "00:12:43",
+            "quote": "Selling price, twenty five Euros. That's for you."
+          },
+          {
+            "meeting_id": "TS3012b",
+            "turn": "TS3012b-365",
+            "speaker": "A",
+            "stamp": "00:29:51",
+            "quote": "We are going for twenty five Euros sales price"
+          }
+        ]
+      },
+      {
+        "text": "Target production cost: approximately 12.5 Euros.",
+        "owner": "",
+        "citations": [
+          {
+            "meeting_id": "TS3012a",
+            "turn": "TS3012a-104",
+            "speaker": "A",
+            "stamp": "00:12:43",
+            "quote": "The production price, twelve and a half Euros, approximately."
+          }
+        ]
+      }
+    ]
+  },
+  "rejected": [],
+  "text": "Brief for Team TS3012 before the final meeting (based on TS3012a, TS3012b, TS3012c)\n\nWho is who: Speaker A = project manager; Speaker B = user interface designer; Speaker C = industrial designer; Speaker D = marketing\n\nTeam TS3012 has settled on developing a yellow, curved, rubber-cased universal remote control for younger consumers under 40, featuring normal push-buttons, a deluxe LCD screen with an advanced chip, regular batteries, speech recognition, and a beep-and-flash recovery feature, while excluding removable covers from the basic design. For the final meeting, the team still needs to resolve five open disagreements (LCD screen placement, channel and mute button placement, a talking-back speaker, speech microphone placement, and a twelfth keypad button), decide on pending proposals such as a menu button and Chiquita sponsorship, and confirm production costs (since no finance data was available in TS3012c) against the 12.5 Euro target. Ahead of the meeting, B (user interface designer) and C (industrial designer) are collaborating on the internal and external design, D (marketing) is conducting a market analysis, A (project manager) is preparing the year-end project report, and all members need to propose a product name.\n\nDECISIONS ALREADY MADE\n- The TV remote control must be original, trendy, and user-friendly.\n    [TS3012a, Speaker A, 00:01:12] \"we need design a remote control for television set, so, which has to be original, trendy and user-friendly.\"\n- The remote control should be made of a lightweight material and be highly responsive.\n    [TS3012a, Speaker A, 00:04:52] \"So that's what we don't want. We want a high-responsive product. So It looks more like nuclear bomb.\"\n    [TS3012a, Speaker C, 00:12:33] \"the material it is made of, it should be something light.\"\n    [TS3012a, Speaker A, 00:12:43] \"It should be light, okay. Um, let's see, where did I Let's skip that. Oh, this is it. Sorry, I skipped this sheet. What do we This Quick What we're going to Selling price, twenty five Euros. That's for you. The production price, twelve and a half Euros, approximately. Just go go for that. We'll reach the uh reach that profit.\"\n- The product will be a universal remote control rather than a device-specific one.\n    [TS3012b, Speaker A, 00:16:15] \"I think we should go for universal, because apparently we're a separate company making separate c remote controls to sell to a lot of diverse people.\"\n    [TS3012b, Speaker A, 00:16:35] \"Okay, universal is good. Speech recognition, I think it's very hard, because we're selling across multiple countries. So I think implementing speech recognition is such a small um apparatus, it's very hard to do.\"\n- The remote control targets younger consumers under 40 rather than older users.\n    [TS3012b, Speaker A, 00:13:10] \"the younger people were defined under forty.\"\n    [TS3012b, Speaker A, 00:17:41] \"Well, we're not we're not targeting older people, we should remember that. Everything we target is under forty, so.\"\n    [TS3012c, Speaker A, 00:07:53] \"We're definitely focussing on the younger people, 'cause that was our main goal.\"\n- The design must keep the corporate black-and-yellow colours, logo, and slogan recognisable.\n    [TS3012b, Speaker A, 00:13:34] \"And one thing that should be important is that the corporate l colour and slogan are recognisable, which is apparently black and yellow\"\n- The remote control will be yellow, despite a reservation from B (user interface designer) that a neutral base colour would work better with covers.\n    [TS3012c, Speaker B, 00:36:54] \"it's better to have a neutral base colour than to have a flashy\"\n    [TS3012c, Speaker A, 00:37:20] \"I think we should th then take it take yellow. Take what you c yellow remote control.\"\n- The team will increase durability and prevent button symbols from fading.\n    [TS3012b, Speaker A, 00:09:03] \"So we agree on the the part that we need to get something on the on the remote to find it somewhere and increase it the durability of of the thing\"\n- The interface will use very few buttons focused on basic functions, with the power button on top and channel and volume controls in the main area.\n    [TS3012b, Speaker A, 00:25:26] \"I think the bu the power button should be on top, 'cause it's the first thing you do, turn it on. So power button on top.\"\n    [TS3012b, Speaker A, 00:31:59] \"Yeah, so we don't want we want very little buttons, just the buttons you use a lot.\"\n    [TS3012b, Speaker A, 00:39:08] \"So we have channel buttons here. I'm just drawing something uh. Uh I think this would this would look cool. You could have it for example small buttons here for some extra functions, so if your basic function's here, we should like we decided before, programmes up and down,\"\n- The teletext button will be retained as a small or secondary button.\n    [TS3012b, Speaker A, 00:12:22] \"Uh Okay, back this up to the screen. So I got some new information on the project specifications are changing a little. Like you said uh teletext is not not very popular anymore because the uh the internet, nowadays people don't use the teletext anymore or hardly, so it can either Well, I don't think we should remove the button, because there are always people who are using it. But I don't think it should be very it should be one of the big buttons for example. Just put it somewhere or under second option or whatever. It's not important anymore. Um we're targeting young people now, because our um\"\n    [TS3012b, Speaker B, 00:31:10] \"Where would we want the uh teletext button? Because we decided that it's n not that important.\"\n- The remote control will use regular batteries instead of kinetic energy, solar cells, or a hand dynamo.\n    [TS3012c, Speaker A, 00:22:57] \"energy, we choose regular regular batteries.\"\n- The remote control will use an advanced chip to support the deluxe edition's LCD screen and advanced features.\n    [TS3012c, Speaker A, 00:09:59] \"Don't think it's an issue, okay. Oh let's go for let's say because it is uh very hot in n our target group I think, we should take it take it t to consideration to build an L_C_D_ screen in it.\"\n    [TS3012c, Speaker A, 00:15:36] \"I think we're going towards the deluxe edition anyway, because that seems to be what the people want.\"\n    [TS3012c, Speaker A, 00:22:57] \"The chip is advanced because we have the advanced features.\"\n- The remote control case will be made of rubber rather than wood or titanium.\n    [TS3012c, Speaker A, 00:07:35] \"You know what, th we're focusing very much on the covers now. I think it's just w now we're going for the basic design. If we wanna expand our options, f be fashionable, then we can get changeable covers. But I think the basic thing let's just rule out wood for now and continue.\"\n    [TS3012c, Speaker A, 00:22:57] \"The case, it will be the material will be rubber, suppose.\"\n- The team will round off the sharp edges of B (user interface designer)'s design and curve the whole remote body.\n    [TS3012c, Speaker A, 00:21:58] \"That's the one thing I'm also afraid of with this one because it the edges are really um they might stick out on the on the side for example. If you have a basic design, a little m a little smaller on the on the s on the edges, you could put more covers on it, y one one with square or um sharp corners if you want to. So M just round it off a little, I guess, because so we have more options I suppose.\"\n    [TS3012c, Speaker C, 00:31:15] \"I would curve the whole. Like um like it hangs over your hand a little bit.\"\n- The interface will use normal push-buttons and will not include a scroll-wheel.\n    [TS3012c, Speaker C, 00:09:33] \"Okay. So push-buttons we will use. Uh L_C_D_ screen?\"\n    [TS3012c, Speaker A, 00:38:37] \"No r no scroll-wheel. Okay. Um I don't see anything missing really.\"\n- The button shapes will be round for general buttons, triangular for navigation controls, and square for the centre button, over a mild preference for a round centre button from C (industrial designer).\n    [TS3012c, Speaker B, 00:26:05] \"But in that case the round buttons would be more appropriate.\"\n    [TS3012c, Speaker A, 00:27:06] \"Triangles are good. Yeah, they're a little too big now. But Anyway, okay. So do you want for example a round button in the middle or square one?\"\n    [TS3012c, Speaker A, 00:27:33] \"We'll just take the take the round button, suppose. Uh oh the square button, sorry.\"\n- The favourite channel function and an OK button will be assigned to the four extra buttons near the top.\n    [TS3012c, Speaker D, 00:29:08] \"One of the four. Uh, it's better than, I think.\"\n    [TS3012c, Speaker B, 00:30:02] \"Oh, we're pretty much missing an okay button, but we have a button up there which is still free. So\"\n- The remote control will include speech recognition.\n    [TS3012c, Speaker B, 00:12:11] \"Well, they b they basically can have speech recognition.\"\n- The remote control will implement a beep-and-flash recovery feature (triggered by a small separate button or box attached to the TV).\n    [TS3012b, Speaker A, 00:15:16] \"the beep is a very simple thing to imple implement\"\n    [TS3012b, Speaker A, 00:16:00] \"A slap-on sticker. Oh, you mean as like a separate thing you can attach to your T_V_. Yeah, that could be possible. A little little box you can attach to your T_V_ is fine then, okay.\"\n    [TS3012c, Speaker A, 00:01:55] \"we are going to implement the beep and the flash thing to recover your remote.\"\n- Removable covers are excluded from the basic design, though they remain a possible future option.\n    [TS3012c, Speaker A, 00:39:21] \"apparently that's not something we're working with in the basic design.\"\n- Batteries will be placed in the spacious upper section, while the LCD chip will be placed at the bottom and wired.\n    [TS3012c, Speaker A, 00:32:46] \"Uh I suppose we can put the batteries in here because it has the most space, for example.\"\n    [TS3012c, Speaker C, 00:33:05] \"You can actually uh place a chip for the L_C_D_ screen and at the bottom, and and wire it.\"\n\nWHAT CHANGED ALONG THE WAY\n- In TS3012b, product scope changed from being solely a TV remote control (TS3012a) to a universal remote control.\n    [TS3012a, Speaker A, 00:11:32] \"The project I got was just for a T_V_ remote control.\"\n    [TS3012b, Speaker A, 00:16:15] \"I think we should go for universal, because apparently we're a separate company making separate c remote controls to sell to a lot of diverse people.\"\n    [TS3012b, Speaker A, 00:16:35] \"Okay, universal is good. Speech recognition, I think it's very hard, because we're selling across multiple countries. So I think implementing speech recognition is such a small um apparatus, it's very hard to do.\"\n- In TS3012c, the recovery locator feature expanded from a locator beep (TS3012b) to a beep-and-flash feature.\n    [TS3012b, Speaker A, 00:15:16] \"Like you have a little just just a text only, not colour, just a little text thing so you can use your remote as a T_V_ guide. I'm not sure it's even possible, but maybe okay, make it Yeah, find a little compromise in that, but What did I write down? I think the p yeah, the beep is a very simple thing to imple implement, just make a button on your T_V_ and just hit the button, it beeps somewhere. I think it's easy to implement, we should go for that. Uh speech recognition.\"\n    [TS3012c, Speaker A, 00:01:55] \"we are going to implement the beep and the flash thing to recover your remote.\"\n- In TS3012c, changeable/removable covers changed from being included in the design (TS3012b) to being excluded from the basic design and kept only as a possible future option.\n    [TS3012b, Speaker A, 00:13:47] \"steal Nokia's idea and just make changeable covers for your\"\n    [TS3012b, Speaker A, 00:29:32] \"Covers is covers is good. Yeah, it's Oh we can save this. Up and saved. We even saved the ant. Um Okay. So what we have is you have I think you have to do a lot of work on if it's possible for the cost.\"\n    [TS3012c, Speaker A, 00:39:21] \"apparently that's not something we're working with in the basic design.\"\n\nOPEN ACTIONS AND OWNERS\n- A (project manager) will upload the minutes of every meeting to the shared project folder. (owner: Speaker A)\n    [TS3012a, Speaker A, 00:03:23] \"just stuff that you wanna share, just put it in the in the project folder, like I put my presentation now.\"\n- All team members will place any work they want to share into the shared project folder. (owner: whole team)\n    [TS3012a, Speaker A, 00:03:23] \"just stuff that you wanna share, just put it in the in the project folder, like I put my presentation now.\"\n- All team members will think of a product name for the remote control rather than using a vague serial number. (owner: whole team)\n    [TS3012b, Speaker C, 00:39:52] \"Shall we all try uh to think about a name?\"\n- B (user interface designer) and C (industrial designer) will collaborate on the internal and external design before the next meeting. (owners: Speakers B, C)\n    [TS3012c, Speaker A, 00:23:27] \"apparently you guys, you should work together on the final design, both on internal and external design.\"\n    [TS3012c, Speaker A, 00:37:41] \"You doodle a doodle us a nice nice design for for the next meeting, we'll be done.\"\n- D (marketing) will conduct a market analysis on how the proposed design will perform in the market. (owner: Speaker D)\n    [TS3012c, Speaker A, 00:23:27] \"you should probably find out how the product will fall into the market, how uh what's gonna happen with the final design\"\n    [TS3012c, Speaker A, 00:35:52] \"I think you have to stay here because we are supposed to five minutes to finish the meeting. Oh, like my the info that I got was that you're uh we're gonna work on our own because you're gonna do the market market uh analysing I'm supposed to do the little work on the year-end report. So the project report.\"\n- A (project manager) will work on the year-end project report. (owner: Speaker A)\n    [TS3012c, Speaker A, 00:35:52] \"I'm supposed to do the little work on the year-end report. So the project report.\"\n\nUNRESOLVED DISAGREEMENTS\n- LCD screen placement: A (project manager) proposed placing the LCD screen lower down so buttons remain on top, while D (marketing), C (industrial designer), and B (user interface designer) preferred it at the top; no placement has been chosen.\n    [TS3012b, Speaker A, 00:36:14] \"No? It's not that uh it's not the most important function, it's just an extra thing, it just you press the buttons on top, because your finger is on top.\"\n    [TS3012b, Speaker A, 00:36:53] \"You would prefer it n Okay. So we have three people saying it should be on top.\"\n    [TS3012b, Speaker A, 00:36:58] \"Okay, but then you would would s have to stack away your buttons somewhere else. Anyways.\"\n- Centre channel and mute button placement: A (project manager) wanted channel buttons in the centre and the mute button at the bottom, whereas B (user interface designer) objected that centre buttons would be too small and preferred mute near the middle.\n    [TS3012b, Speaker B, 00:25:36] \"Okay, mute button. Is that somewhere here? Is that used often? The mute button? Do people use that often? 'Cause uh I'm pretty much accustomed to it right over here\"\n    [TS3012b, Speaker A, 00:25:39] \"Mute. Do we hardly I think it should be at the bottom somewhere.\"\n    [TS3012b, Speaker A, 00:38:05] \"I think the channel button should be in the centre.\"\n- Talking-back speaker feature: C (industrial designer) suggested adding a talking-back confirmation feature using the sample sensor, while B (user interface designer) questioned whether the remote needs to talk back.\n    [TS3012c, Speaker C, 00:34:29] \"Uh the speaker sensor we already have, but s I don't know what they exactly mean by a sample sensor. Could it talk back? Like uh g uh give confirmation or something. I think it can. I think if you have a a speech recognition component, then a s speaking component is not that hard to to put in either.\"\n    [TS3012c, Speaker B, 00:34:54] \"Yeah, but do you actually need the remote talking back?\"\n- Speech recognition microphone placement: B (user interface designer) wanted the microphone combined with the top transmitter, whereas A (project manager) worried about interference and suggested bottom placement or a double microphone.\n    [TS3012c, Speaker B, 00:33:39] \"Oh, basically the idea that I had was it to be pretty much in combination with the transmitter. 'Cause you can talk to it like this.\"\n    [TS3012c, Speaker A, 00:33:44] \"To be Okay, I w thought maybe it's either be here or because it's mi it might interfere with the transmitter, I'm not sure. But\"\n- Twelfth bottom keypad button: A (project manager) wanted a twelfth button next to zero so nothing looks missing, while B (user interface designer) argued twelve keypad buttons are confusing because users expect eleven.\n    [TS3012c, Speaker B, 00:29:19] \"Because it's a little bit confusing to have twelve buttons down there, because you're only accustomed to eleven, I'd say.\"\n    [TS3012c, Speaker A, 00:29:28] \"think this looks rather like like there's something missing for example.\"\n\nNUMBERS TO KEEP IN MIND\n- Target selling price: 25 Euros.\n    [TS3012a, Speaker A, 00:12:43] \"Selling price, twenty five Euros. That's for you.\"\n    [TS3012b, Speaker A, 00:29:51] \"We are going for twenty five Euros sales price\"\n- Target production cost: approximately 12.5 Euros.\n    [TS3012a, Speaker A, 00:12:43] \"The production price, twelve and a half Euros, approximately.\"\n",
+  "short_text": "Team TS3012: one-screen brief before the final meeting (from TS3012a, TS3012b, TS3012c; full cited brief in brief_TS3012.json)\n\nThe team is developing a universal, trendy remote control designed for users under 40.\n\nDECISIONS ALREADY MADE\n- The product will be a universal remote control rather than a device-specific one.\n    [TS3012b, Speaker A, 00:16:15] \"I think we should go for universal, because apparently we're a separate company making separate c remote controls to sell to a lot of diverse people.\"\n- The remote control targets younger consumers under 40 rather than older users.\n    [TS3012b, Speaker A, 00:17:41] \"Well, we're not we're not targeting older people, we should remember that. Everything we target is under forty, so.\"\n- The remote control case will be made of rubber rather than wood or titanium.\n    [TS3012c, Speaker A, 00:22:57] \"The case, it will be the material will be rubber, suppose.\"\n- The button shapes will be round for general buttons, triangular for navigation controls, and square for the centre button, over a mild preference for a round centre button from C (industrial designer).\n    [TS3012c, Speaker A, 00:27:33] \"We'll just take the take the round button, suppose. Uh oh the square button, sorry.\"\nWHAT CHANGED ALONG THE WAY\n- In TS3012b, product scope changed from being solely a TV remote control (TS3012a) to a universal remote control.\n    [TS3012a, Speaker A, 00:11:32] \"The project I got was just for a T_V_ remote control.\"\n    [TS3012b, Speaker A, 00:16:35] \"Okay, universal is good. Speech recognition, I think it's very hard, because we're selling across multiple countries. So I think implementing speech recognition is such a small um apparatus, it's\"\nOPEN ACTIONS AND OWNERS\n- All team members will think of a product name for the remote control rather than using a vague serial number. (owner: whole team)\n    [TS3012b, Speaker C, 00:39:52] \"Shall we all try uh to think about a name?\"\n- B (user interface designer) and C (industrial designer) will collaborate on the internal and external design before the next meeting. (owners: Speakers B, C)\n    [TS3012c, Speaker A, 00:23:27] \"apparently you guys, you should work together on the final design, both on internal and external design.\"\n- D (marketing) will conduct a market analysis on how the proposed design will perform in the market. (owner: Speaker D)\n    [TS3012c, Speaker A, 00:23:27] \"you should probably find out how the product will fall into the market, how uh what's gonna happen with the final design\"\nUNRESOLVED DISAGREEMENTS\n- LCD screen placement: A (project manager) proposed placing the LCD screen lower down so buttons remain on top, while D (marketing), C (industrial designer), and B (user interface designer) preferred it at the top; no placement has been chosen.\n    [TS3012b, Speaker A, 00:36:14] \"No? It's not that uh it's not the most important function, it's just an extra thing, it just you press the buttons on top, because your finger is on top.\"\nNUMBERS TO KEEP IN MIND\n- Target selling price: 25 Euros.\n    [TS3012a, Speaker A, 00:12:43] \"Selling price, twenty five Euros. That's for you.\"\n- Target production cost: approximately 12.5 Euros.\n    [TS3012a, Speaker A, 00:12:43] \"The production price, twelve and a half Euros, approximately.\"\n",
+  "short_points": [
+    3,
+    4,
+    12,
+    15,
+    21,
+    26,
+    27,
+    28,
+    30,
+    35
+  ],
+  "short_headline": "The team is developing a universal, trendy remote control designed for users under 40."
+}

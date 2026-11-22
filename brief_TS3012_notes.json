@@ -1,0 +1,2017 @@
+{
+  "TS3012a": {
+    "roles": {
+      "A": "Project Manager",
+      "B": "User Interface Designer",
+      "C": "Industrial Designer",
+      "D": "Marketing Expert"
+    },
+    "items": [
+      {
+        "meeting": "TS3012a",
+        "kind": "decision",
+        "topic": "Target budget",
+        "text": "The selling price is set at 25 Euros with a production cost of 12.50 Euros.",
+        "owner": "A",
+        "evidence": [
+          {
+            "id": "TS3012a-104",
+            "speaker": "A",
+            "quote": "Selling price, twenty five Euros. That's for you. The production price, twelve and a half Euros, approximately."
+          }
+        ]
+      },
+      {
+        "meeting": "TS3012a",
+        "kind": "decision",
+        "topic": "Scope",
+        "text": "The product is confirmed to be a TV remote control only, not a multi-remote.",
+        "owner": "A",
+        "evidence": [
+          {
+            "id": "TS3012a-93",
+            "speaker": "A",
+            "quote": "The project I got was just for a T_V_ remote control."
+          }
+        ]
+      },
+      {
+        "meeting": "TS3012a",
+        "kind": "proposal",
+        "topic": "Accessibility",
+        "text": "The team discussed whether to include features for disabled users in the design.",
+        "owner": "B",
+        "evidence": [
+          {
+            "id": "TS3012a-99",
+            "speaker": "B",
+            "quote": "Do we want people who are disabled in any way to uh, yeah, to be able to use it as well?"
+          }
+        ]
+      },
+      {
+        "meeting": "TS3012a",
+        "kind": "proposal",
+        "topic": "Material",
+        "text": "The industrial designer suggested the remote should be made of a light material.",
+        "owner": "C",
+        "evidence": [
+          {
+            "id": "TS3012a-101",
+            "speaker": "C",
+            "quote": "it should be something light. That's it speaks for itself"
+          }
+        ]
+      },
+      {
+        "meeting": "TS3012a",
+        "kind": "disagreement",
+        "topic": "Revolutionary vs. intuitive design",
+        "text": "The team expressed differing views on whether to keep the design familiar or attempt revolutionary changes.",
+        "owner": "B",
+        "evidence": [
+          {
+            "id": "TS3012a-94",
+            "speaker": "B",
+            "quote": "thing to keep in mind is that we need to stick to what people are familiar with. No rational changes or whatever, 'cause it revolutionary changes, yes."
+          }
+        ]
+      },
+      {
+        "meeting": "TS3012a",
+        "kind": "action",
+        "topic": "Market research",
+        "text": "The marketing expert is assigned to investigate current market trends and what consumers want.",
+        "owner": "D",
+        "evidence": [
+          {
+            "id": "TS3012a-12",
+            "speaker": "A",
+            "quote": "So that's what you need to do to bring us the latest info and what people want."
+          }
+        ]
+      }
+    ]
+  },
+  "TS3012b": {
+    "roles": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": ""
+    },
+    "items": [
+      {
+        "meeting": "TS3012b",
+        "kind": "decision",
+        "topic": "Universal Remote",
+        "text": "The team decided to design a universal remote control.",
+        "owner": "",
+        "evidence": [
+          {
+            "id": "TS3012b-139",
+            "speaker": "A",
+            "quote": "I think it's universal. I think we should go for universal"
+          }
+        ]
+      },
+      {
+        "meeting": "TS3012b",
+        "kind": "decision",
+        "topic": "Target Audience",
+        "text": "The team is targeting consumers under forty years of age.",
+        "owner": "",
+        "evidence": [
+          {
+            "id": "TS3012b-91",
+            "speaker": "A",
+            "quote": "the younger people were defined under forty."
+          }
+        ]
+      },
+      {
+        "meeting": "TS3012b",
+        "kind": "decision",
+        "topic": "Remote Locator",
+        "text": "The team decided to include a beep feature to help users locate a lost remote.",
+        "owner": "",
+        "evidence": [
+          {
+            "id": "TS3012b-123",
+            "speaker": "A",
+            "quote": "the beep is a very simple thing to imple implement"
+          }
+        ]
+      },
+      {
+        "meeting": "TS3012b",
+        "kind": "proposal",
+        "topic": "Changeable Covers",
+        "text": "The team discussed using interchangeable covers for the remote to allow customization.",
+        "owner": "A",
+        "evidence": [
+          {
+            "id": "TS3012b-99",
+            "speaker": "A",
+            "quote": "why not just steal Nokia's idea and just make changeable covers"
+          }
+        ]
+      },
+      {
+        "meeting": "TS3012b",
+        "kind": "proposal",
+        "topic": "Rechargeable Batteries",
+        "text": "The team proposed making the remote rechargeable, potentially using a docking station.",
+        "owner": "C",
+        "evidence": [
+          {
+            "id": "TS3012b-311",
+            "speaker": "C",
+            "quote": "Shall we uh also look if it's possible to make a rechargeable remote?"
+          }
+        ]
+      },
+      {
+        "meeting": "TS3012b",
+        "kind": "proposal",
+        "topic": "LCD Screen",
+        "text": "The team discussed including an LCD screen, despite concerns regarding battery life and cost.",
+        "owner": "D",
+        "evidence": [
+          {
+            "id": "TS3012b-30",
+            "speaker": "D",
+            "quote": "And they want maybe an uh L_C_D_ screen"
+          }
+        ]
+      },
+      {
+        "meeting": "TS3012b",
+        "kind": "disagreement",
+        "topic": "LCD Screen Necessity",
+        "text": "Members debated the necessity and feasibility of an LCD screen given cost and power constraints.",
+        "owner": "",
+        "evidence": [
+          {
+            "id": "TS3012b-112",
+            "speaker": "A",
+            "quote": "I think we should lose the L_C_D_ screen, like you said. I think for example it's it's huge"
+          }
+        ]
+      },
+      {
+        "meeting": "TS3012b",
+        "kind": "action",
+        "topic": "Financial Research",
+        "text": "Speaker C is tasked with investigating costs and financial viability of the proposed features.",
+        "owner": "C",
+        "evidence": [
+          {
+            "id": "TS3012b-370",
+            "speaker": "C",
+            "quote": "I would like to make a decision. What it costs and what kind of materials"
+          }
+        ]
+      },
+      {
+        "meeting": "TS3012b",
+        "kind": "action",
+        "topic": "Design Sketches",
+        "text": "Speaker B is tasked with drawing out design ideas based on the discussed structure.",
+        "owner": "B",
+        "evidence": [
+          {
+            "id": "TS3012b-398",
+            "speaker": "B",
+            "quote": "Or maybe this is something for the next meeting, I can draw out some ideas."
+          }
+        ]
+      },
+      {
+        "meeting": "TS3012b",
+        "kind": "action",
+        "topic": "Product Naming",
+        "text": "The team members are to brainstorm a name for the product.",
+        "owner": "",
+        "evidence": [
+          {
+            "id": "TS3012b-556",
+            "speaker": "C",
+            "quote": "Shall we all try uh to think about a name?"
+          }
+        ]
+      },
+      {
+        "meeting": "TS3012b",
+        "kind": "number",
+        "topic": "Sales Price Target",
+        "text": "The current target sales price for the remote is twenty-five Euros.",
+        "owner": "A",
+        "evidence": [
+          {
+            "id": "TS3012b-365",
+            "speaker": "A",
+            "quote": "We are going for twenty five Euros sales price"
+          }
+        ]
+      }
+    ]
+  },
+  "TS3012c": {
+    "roles": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": ""
+    },
+    "items": [
+      {
+        "meeting": "TS3012c",
+        "kind": "decision",
+        "topic": "Energy source",
+        "text": "The team decided to use regular batteries for the remote control.",
+        "owner": "A",
+        "evidence": [
+          {
+            "id": "TS3012c-383",
+            "speaker": "A",
+            "quote": "energy, we choose regular regular batteries."
+          }
+        ]
+      },
+      {
+        "meeting": "TS3012c",
+        "kind": "decision",
+        "topic": "Material",
+        "text": "The team decided to use rubber as the material for the remote.",
+        "owner": "A",
+        "evidence": [
+          {
+            "id": "TS3012c-286",
+            "speaker": "A",
+            "quote": "Okay, so we're definitely going for rubber."
+          }
+        ]
+      },
+      {
+        "meeting": "TS3012c",
+        "kind": "decision",
+        "topic": "Scroll-wheel",
+        "text": "The team decided not to include a scroll-wheel on the remote.",
+        "owner": "C",
+        "evidence": [
+          {
+            "id": "TS3012c-632",
+            "speaker": "C",
+            "quote": "You are out of course. You are okay, clear."
+          }
+        ]
+      },
+      {
+        "meeting": "TS3012c",
+        "kind": "decision",
+        "topic": "Electronics",
+        "text": "The team decided to use an advanced chip because they are including an LCD screen.",
+        "owner": "C",
+        "evidence": [
+          {
+            "id": "TS3012c-177",
+            "speaker": "C",
+            "quote": "the chip. Uh that's no longer an option, it has to be an advanced one now. 'Cause we have the L_C_D_ screen."
+          }
+        ]
+      },
+      {
+        "meeting": "TS3012c",
+        "kind": "decision",
+        "topic": "Target audience",
+        "text": "The team confirmed their primary focus is on young consumers.",
+        "owner": "A",
+        "evidence": [
+          {
+            "id": "TS3012c-125",
+            "speaker": "A",
+            "quote": "We're definitely focussing on the younger people, 'cause that was our main goal."
+          }
+        ]
+      },
+      {
+        "meeting": "TS3012c",
+        "kind": "decision",
+        "topic": "Features",
+        "text": "The team decided to include voice recognition technology in the remote.",
+        "owner": "A",
+        "evidence": [
+          {
+            "id": "TS3012c-198",
+            "speaker": "A",
+            "quote": "If it's small, if it's fits, if if people like it, why not? So"
+          }
+        ]
+      },
+      {
+        "meeting": "TS3012c",
+        "kind": "proposal",
+        "topic": "Changeable covers",
+        "text": "The team discussed the possibility of having interchangeable covers to make the product more fashionable.",
+        "owner": "A",
+        "evidence": [
+          {
+            "id": "TS3012c-37",
+            "speaker": "A",
+            "quote": "So one of these interchangeable covers apparently which will make it a more fashionable product."
+          }
+        ]
+      },
+      {
+        "meeting": "TS3012c",
+        "kind": "proposal",
+        "topic": "Remote shape",
+        "text": "The team proposed making the remote shape curved, specifically resembling a banana, to be trendy.",
+        "owner": "C",
+        "evidence": [
+          {
+            "id": "TS3012c-492",
+            "speaker": "C",
+            "quote": "Let's make it yellow then. Uh"
+          }
+        ]
+      },
+      {
+        "meeting": "TS3012c",
+        "kind": "action",
+        "topic": "Final design work",
+        "text": "B and D are assigned to work together on the final internal and external design.",
+        "owner": "A",
+        "evidence": [
+          {
+            "id": "TS3012c-385",
+            "speaker": "A",
+            "quote": "you should probably find out how the product will fall into the market, how uh what's gonna happen with the final design as we have it now."
+          }
+        ]
+      },
+      {
+        "meeting": "TS3012c",
+        "kind": "action",
+        "topic": "Project report",
+        "text": "A is assigned to work on the project report.",
+        "owner": "A",
+        "evidence": [
+          {
+            "id": "TS3012c-566",
+            "speaker": "A",
+            "quote": "I'm supposed to do the little work on the year-end report. So the project report."
+          }
+        ]
+      },
+      {
+        "meeting": "TS3012c",
+        "kind": "disagreement",
+        "topic": "Button shape",
+        "text": "There was no final consensus on whether buttons should be round or square.",
+        "owner": "A",
+        "evidence": [
+          {
+            "id": "TS3012c-424",
+            "speaker": "C",
+            "quote": "I would prefer round. But doesn't matter, doesn't matter."
+          }
+        ]
+      },
+      {
+        "meeting": "TS3012c",
+        "kind": "number",
+        "topic": "Voice recognition interest",
+        "text": "Market research suggests more than 60 percent of people are interested in voice recognition.",
+        "owner": "D",
+        "evidence": [
+          {
+            "id": "TS3012c-194",
+            "speaker": "D",
+            "quote": "Um uh more than uh sixty percent."
+          }
+        ]
+      }
+    ]
+  },
+  "TS3012a:f8f0d007ce": {
+    "roles": {
+      "A": "Project Manager",
+      "B": "User Interface Designer",
+      "C": "Industrial Designer",
+      "D": "Marketing Expert"
+    },
+    "items": [
+      {
+        "meeting": "TS3012a",
+        "kind": "decision",
+        "topic": "Product scope",
+        "text": "The project scope is strictly limited to designing a television remote control.",
+        "owner": "",
+        "evidence": [
+          {
+            "id": "TS3012a-93",
+            "speaker": "A",
+            "quote": "The project I got was just for a T_V_ remote control."
+          }
+        ]
+      },
+      {
+        "meeting": "TS3012a",
+        "kind": "number",
+        "topic": "Selling price",
+        "text": "The target selling price for the remote control is 25 Euros.",
+        "owner": "A",
+        "evidence": [
+          {
+            "id": "TS3012a-104",
+            "speaker": "A",
+            "quote": "Selling price, twenty five Euros. That's for you."
+          }
+        ]
+      },
+      {
+        "meeting": "TS3012a",
+        "kind": "number",
+        "topic": "Production price",
+        "text": "The target production price for the remote control is approximately 12.5 Euros.",
+        "owner": "A",
+        "evidence": [
+          {
+            "id": "TS3012a-104",
+            "speaker": "A",
+            "quote": "The production price, twelve and a half Euros, approximately."
+          }
+        ]
+      },
+      {
+        "meeting": "TS3012a",
+        "kind": "proposal",
+        "topic": "Usability features",
+        "text": "The team discussed whether to include features to make the remote usable by disabled individuals.",
+        "owner": "B",
+        "evidence": [
+          {
+            "id": "TS3012a-99",
+            "speaker": "B",
+            "quote": "Do we want people who are disabled in any way to uh, yeah, to be able to use it as well?"
+          }
+        ]
+      },
+      {
+        "meeting": "TS3012a",
+        "kind": "proposal",
+        "topic": "Material",
+        "text": "The industrial designer proposed that the material for the remote should be lightweight.",
+        "owner": "C",
+        "evidence": [
+          {
+            "id": "TS3012a-101",
+            "speaker": "C",
+            "quote": "the material it is made of, it should be something light."
+          }
+        ]
+      },
+      {
+        "meeting": "TS3012a",
+        "kind": "action",
+        "topic": "Market research",
+        "text": "The marketing expert needs to gather information on what users want and current market trends.",
+        "owner": "D",
+        "evidence": [
+          {
+            "id": "TS3012a-12",
+            "speaker": "A",
+            "quote": "we need to um be very at um very open to what's currently hot in the market. So that's what you need to do to bring us the latest info and what people want."
+          }
+        ]
+      },
+      {
+        "meeting": "TS3012a",
+        "kind": "action",
+        "topic": "Individual research",
+        "text": "All team members are to perform individual research before the next meeting.",
+        "owner": "all",
+        "evidence": [
+          {
+            "id": "TS3012a-14",
+            "speaker": "A",
+            "quote": "Everybody has uh a piece of individual work and a meeting afterwards, so we can share information about"
+          }
+        ]
+      }
+    ]
+  },
+  "TS3012b:f8f0d007ce": {
+    "roles": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": ""
+    },
+    "items": [
+      {
+        "meeting": "TS3012b",
+        "kind": "decision",
+        "topic": "Universal remote control",
+        "text": "The team agreed to design the remote as a universal remote control.",
+        "owner": "",
+        "evidence": [
+          {
+            "id": "TS3012b-139",
+            "speaker": "A",
+            "quote": "I think it's universal. I think we should go for universal"
+          }
+        ]
+      },
+      {
+        "meeting": "TS3012b",
+        "kind": "decision",
+        "topic": "Target audience",
+        "text": "The team decided to target users under the age of forty.",
+        "owner": "",
+        "evidence": [
+          {
+            "id": "TS3012b-91",
+            "speaker": "A",
+            "quote": "the younger people were defined under forty."
+          }
+        ]
+      },
+      {
+        "meeting": "TS3012b",
+        "kind": "action",
+        "topic": "Financial research",
+        "text": "C is to research costs and material feasibility for components like the LCD screen and rechargeable battery.",
+        "owner": "C",
+        "evidence": [
+          {
+            "id": "TS3012b-343",
+            "speaker": "C",
+            "quote": "I'm going to try to find that out. I'm not sure if there's information available on this"
+          }
+        ]
+      },
+      {
+        "meeting": "TS3012b",
+        "kind": "action",
+        "topic": "Design concepts",
+        "text": "B is to draw up and present design ideas for the remote at the next meeting.",
+        "owner": "B",
+        "evidence": [
+          {
+            "id": "TS3012b-228",
+            "speaker": "B",
+            "quote": "I'll put some on paper and present them next time uh the ideas that I have."
+          }
+        ]
+      },
+      {
+        "meeting": "TS3012b",
+        "kind": "action",
+        "topic": "Naming the remote",
+        "text": "All team members are to brainstorm a name for the product.",
+        "owner": "all",
+        "evidence": [
+          {
+            "id": "TS3012b-556",
+            "speaker": "C",
+            "quote": "Shall we all try uh to think about a name?"
+          }
+        ]
+      },
+      {
+        "meeting": "TS3012b",
+        "kind": "proposal",
+        "topic": "Changeable covers",
+        "text": "The team discussed using changeable covers similar to Nokia phones for the remote.",
+        "owner": "A",
+        "evidence": [
+          {
+            "id": "TS3012b-99",
+            "speaker": "A",
+            "quote": "steal Nokia's idea and just make changeable covers for your"
+          }
+        ]
+      },
+      {
+        "meeting": "TS3012b",
+        "kind": "proposal",
+        "topic": "Lost remote locator",
+        "text": "The team is considering implementing a beep or flash feature to locate a lost remote.",
+        "owner": "D",
+        "evidence": [
+          {
+            "id": "TS3012b-30",
+            "speaker": "D",
+            "quote": "beep to find your control, was that was in the test"
+          }
+        ]
+      },
+      {
+        "meeting": "TS3012b",
+        "kind": "report",
+        "topic": "Functionality survey",
+        "text": "D reported findings from a survey of 100 people about remote control usage and preferences.",
+        "owner": "D",
+        "evidence": [
+          {
+            "id": "TS3012b-16",
+            "speaker": "D",
+            "quote": "the method we use uh, um we tested it w uh with uh a hundred uh men"
+          }
+        ]
+      },
+      {
+        "meeting": "TS3012b",
+        "kind": "number",
+        "topic": "Sales price",
+        "text": "The current target sales price for the remote is 25 Euros.",
+        "owner": "",
+        "evidence": [
+          {
+            "id": "TS3012b-365",
+            "speaker": "A",
+            "quote": "We are going for twenty five Euros sales price"
+          }
+        ]
+      },
+      {
+        "meeting": "TS3012b",
+        "kind": "disagreement",
+        "topic": "LCD screen location",
+        "text": "The team disagreed on whether the LCD screen should be positioned on the top or in the middle of the remote.",
+        "owner": "",
+        "evidence": [
+          {
+            "id": "TS3012b-496",
+            "speaker": "A",
+            "quote": "You would prefer it n Okay. So we have three people saying it should be on top."
+          }
+        ]
+      }
+    ]
+  },
+  "TS3012c:f8f0d007ce": {
+    "roles": {
+      "A": "project manager",
+      "B": "",
+      "C": "",
+      "D": ""
+    },
+    "items": [
+      {
+        "meeting": "TS3012c",
+        "kind": "decision",
+        "topic": "scroll-wheel exclusion",
+        "text": "The team decided to exclude the scroll-wheel feature from the remote control design.",
+        "owner": "",
+        "evidence": [
+          {
+            "id": "TS3012c-632",
+            "speaker": "C",
+            "quote": "You are out of course. You are okay, clear."
+          }
+        ]
+      },
+      {
+        "meeting": "TS3012c",
+        "kind": "decision",
+        "topic": "remote material",
+        "text": "The team agreed to use rubber as the primary material for the remote control.",
+        "owner": "",
+        "evidence": [
+          {
+            "id": "TS3012c-286",
+            "speaker": "A",
+            "quote": "Okay, so we're definitely going for rubber."
+          }
+        ]
+      },
+      {
+        "meeting": "TS3012c",
+        "kind": "decision",
+        "topic": "energy source",
+        "text": "The team decided to use regular batteries for the remote control.",
+        "owner": "",
+        "evidence": [
+          {
+            "id": "TS3012c-383",
+            "speaker": "A",
+            "quote": "energy, we choose regular regular batteries."
+          }
+        ]
+      },
+      {
+        "meeting": "TS3012c",
+        "kind": "decision",
+        "topic": "chip type",
+        "text": "The team decided that an advanced chip is required to support the chosen advanced features.",
+        "owner": "",
+        "evidence": [
+          {
+            "id": "TS3012c-383",
+            "speaker": "A",
+            "quote": "The chip is advanced because we have the advanced features."
+          }
+        ]
+      },
+      {
+        "meeting": "TS3012c",
+        "kind": "decision",
+        "topic": "target audience",
+        "text": "The team confirmed the primary target audience is young people.",
+        "owner": "",
+        "evidence": [
+          {
+            "id": "TS3012c-125",
+            "speaker": "A",
+            "quote": "We're definitely focussing on the younger people, 'cause that was our main goal."
+          }
+        ]
+      },
+      {
+        "meeting": "TS3012c",
+        "kind": "action",
+        "topic": "design finalization",
+        "text": "B and D are assigned to work together on the final internal and external design.",
+        "owner": "B,D",
+        "evidence": [
+          {
+            "id": "TS3012c-385",
+            "speaker": "A",
+            "quote": "you should probably find out how the product will fall into the market, how uh what's gonna happen with the final design as we have it now."
+          }
+        ]
+      },
+      {
+        "meeting": "TS3012c",
+        "kind": "action",
+        "topic": "project report",
+        "text": "A is assigned to work on the project's year-end report.",
+        "owner": "A",
+        "evidence": [
+          {
+            "id": "TS3012c-566",
+            "speaker": "A",
+            "quote": "I'm supposed to do the little work on the year-end report. So the project report."
+          }
+        ]
+      },
+      {
+        "meeting": "TS3012c",
+        "kind": "report",
+        "topic": "market interest in voice recognition",
+        "text": "D reported that over 60 percent of surveyed young people expressed interest in voice recognition features.",
+        "owner": "D",
+        "evidence": [
+          {
+            "id": "TS3012c-194",
+            "speaker": "D",
+            "quote": "Um uh more than uh sixty percent."
+          }
+        ]
+      },
+      {
+        "meeting": "TS3012c",
+        "kind": "proposal",
+        "topic": "remote colour",
+        "text": "C proposed making the remote yellow to appeal to the target audience.",
+        "owner": "C",
+        "evidence": [
+          {
+            "id": "TS3012c-576",
+            "speaker": "C",
+            "quote": "I would change. I would take a yellow remote control."
+          }
+        ]
+      },
+      {
+        "meeting": "TS3012c",
+        "kind": "disagreement",
+        "topic": "the scroll-wheel",
+        "text": "C argued for the inclusion of a scroll-wheel as a design element despite A, B, and D questioning its lack of functionality.",
+        "owner": "C",
+        "evidence": [
+          {
+            "id": "TS3012c-622",
+            "speaker": "C",
+            "quote": "so many things have no function, just design."
+          }
+        ]
+      }
+    ]
+  },
+  "TS3012a:f8f0d007ce:models/gemini-4-hydrogen": {
+    "roles": {
+      "A": "project manager",
+      "B": "user interface designer",
+      "C": "industrial designer",
+      "D": "marketing"
+    },
+    "items": [
+      {
+        "meeting": "TS3012a",
+        "kind": "number",
+        "topic": "selling price",
+        "text": "The target selling price for the TV remote control is 25 Euros.",
+        "owner": "",
+        "evidence": [
+          {
+            "id": "TS3012a-104",
+            "speaker": "A",
+            "quote": "Selling price, twenty five Euros. That's for you."
+          }
+        ]
+      },
+      {
+        "meeting": "TS3012a",
+        "kind": "number",
+        "topic": "production cost",
+        "text": "The target production price is approximately 12.5 Euros.",
+        "owner": "",
+        "evidence": [
+          {
+            "id": "TS3012a-104",
+            "speaker": "A",
+            "quote": "The production price, twelve and a half Euros, approximately."
+          }
+        ]
+      },
+      {
+        "meeting": "TS3012a",
+        "kind": "decision",
+        "topic": "product scope",
+        "text": "The product will be solely a TV remote control rather than a multi-device remote.",
+        "owner": "",
+        "evidence": [
+          {
+            "id": "TS3012a-93",
+            "speaker": "A",
+            "quote": "The project I got was just for a T_V_ remote control."
+          }
+        ]
+      },
+      {
+        "meeting": "TS3012a",
+        "kind": "decision",
+        "topic": "product vision",
+        "text": "The TV remote control must be original, trendy, and user-friendly.",
+        "owner": "",
+        "evidence": [
+          {
+            "id": "TS3012a-12",
+            "speaker": "A",
+            "quote": "we need design a remote control for television set, so, which has to be original, trendy and user-friendly."
+          }
+        ]
+      },
+      {
+        "meeting": "TS3012a",
+        "kind": "decision",
+        "topic": "material weight",
+        "text": "The team agreed that the remote control should be made of a lightweight material.",
+        "owner": "",
+        "evidence": [
+          {
+            "id": "TS3012a-101",
+            "speaker": "C",
+            "quote": "the material it is made of, it should be something light."
+          },
+          {
+            "id": "TS3012a-104",
+            "speaker": "A",
+            "quote": "It should be light, okay. Um, let's see, where did I Let's skip that. Oh, this is it. Sorry, I skipped this sheet. What do we This Quick What we're going to Selling price, twenty five Euros. That's for you. The production price, twelve and a half Euros, approximately. Just go go for that. We'll reach the uh reach that profit."
+          }
+        ]
+      },
+      {
+        "meeting": "TS3012a",
+        "kind": "decision",
+        "topic": "responsiveness",
+        "text": "The team wants the remote control to be a high-responsive product.",
+        "owner": "",
+        "evidence": [
+          {
+            "id": "TS3012a-24",
+            "speaker": "A",
+            "quote": "So that's what we don't want. We want a high-responsive product."
+          }
+        ]
+      },
+      {
+        "meeting": "TS3012a",
+        "kind": "proposal",
+        "topic": "familiar intuitive design",
+        "text": "Nick proposed sticking to a familiar, intuitive design without revolutionary changes.",
+        "owner": "B",
+        "evidence": [
+          {
+            "id": "TS3012a-94",
+            "speaker": "B",
+            "quote": "Just for T_V_ remote control. Okay. Well, I was thinking about design remote control, with our uh motto and all. Uh thing to keep in mind is that we need to stick to what people are familiar with. No rational changes or whatever, 'cause it revolutionary changes, yes."
+          }
+        ]
+      },
+      {
+        "meeting": "TS3012a",
+        "kind": "proposal",
+        "topic": "accessibility for disabled users",
+        "text": "Nick asked whether the remote should accommodate disabled users, and Mark suggested considering it while noting severely disabled users might pose difficulties.",
+        "owner": "B",
+        "evidence": [
+          {
+            "id": "TS3012a-99",
+            "speaker": "B",
+            "quote": "Uh we might have to consider other design aspects of our product. So that was something I wanted to add, and perhaps some usability aspect. T_V_ is becoming central in most homes. Do we want people who are disabled in any way to uh, yeah, to be able to use it as well?"
+          },
+          {
+            "id": "TS3012a-100",
+            "speaker": "A",
+            "quote": "really disabled people, yeah, might be a problem, but I think it's a little take it into consideration."
+          }
+        ]
+      },
+      {
+        "meeting": "TS3012a",
+        "kind": "action",
+        "topic": "functional design work",
+        "text": "All team members will complete individual work on the functional design phase before the next meeting.",
+        "owner": "all",
+        "evidence": [
+          {
+            "id": "TS3012a-14",
+            "speaker": "A",
+            "quote": "First step will be the functional design. And that's basically what we're gonna do. Everybody has uh a piece of individual work and a meeting afterwards, so we can share information"
+          }
+        ]
+      },
+      {
+        "meeting": "TS3012a",
+        "kind": "action",
+        "topic": "market trends research",
+        "text": "Dirk will gather the latest information on market trends and what users want.",
+        "owner": "D",
+        "evidence": [
+          {
+            "id": "TS3012a-12",
+            "speaker": "A",
+            "quote": "very open to what's currently hot in the market. So that's what you need to do to bring us the latest info and what people want."
+          }
+        ]
+      },
+      {
+        "meeting": "TS3012a",
+        "kind": "action",
+        "topic": "industrial design questions",
+        "text": "Xavier will determine what goes inside the device, what materials it is made of, and what it should look like.",
+        "owner": "C",
+        "evidence": [
+          {
+            "id": "TS3012a-8",
+            "speaker": "C",
+            "quote": "there are three main questions that I have to find an answer to today. First one is uh what happens inside the apparatus, second is what is uh the apparatus made of, and the third is what should it look like."
+          }
+        ]
+      },
+      {
+        "meeting": "TS3012a",
+        "kind": "action",
+        "topic": "user interface design",
+        "text": "Nick will design a trendy and distinct user interface for the remote control.",
+        "owner": "B",
+        "evidence": [
+          {
+            "id": "TS3012a-88",
+            "speaker": "A",
+            "quote": "Like you take just take your freedom and use a a trendy interface that you design for us."
+          },
+          {
+            "id": "TS3012a-90",
+            "speaker": "A",
+            "quote": "Just Yeah. You're supposed to make i make it different from uh from what other people have, and just make it a little distinct. Anyway. another beep to stop the meeting. See. Warning. Finish meeting now. Uh put this down. Examples. Well I guess we have a little little time extra, but Just a little quick discussion to to open open our work. So what do you guys think about The first idea is just very short. I'll start with you. What are y What are your first ideas for the new product? What"
+          }
+        ]
+      },
+      {
+        "meeting": "TS3012a",
+        "kind": "action",
+        "topic": "meeting minutes",
+        "text": "Mark will upload the minutes of every meeting to the shared project folder.",
+        "owner": "A",
+        "evidence": [
+          {
+            "id": "TS3012a-18",
+            "speaker": "A",
+            "quote": "I'll put the the minutes of every meeting, I'll put them there too, so everybody can read up if they have to leave early or whatever."
+          }
+        ]
+      },
+      {
+        "meeting": "TS3012a",
+        "kind": "action",
+        "topic": "shared project folder",
+        "text": "All team members will place any work they want to share into the project folder.",
+        "owner": "all",
+        "evidence": [
+          {
+            "id": "TS3012a-18",
+            "speaker": "A",
+            "quote": "just stuff that you wanna share, just put it in the in the project folder, like I put my presentation now."
+          }
+        ]
+      }
+    ]
+  },
+  "TS3012b:f8f0d007ce:models/gemini-4-hydrogen": {
+    "roles": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "marketing"
+    },
+    "items": [
+      {
+        "meeting": "TS3012b",
+        "kind": "number",
+        "topic": "Target sales price",
+        "text": "The team is targeting a sales price of 25 Euros for the remote control.",
+        "owner": "",
+        "evidence": [
+          {
+            "id": "TS3012b-365",
+            "speaker": "A",
+            "quote": "We are going for twenty five Euros sales price, but just try to find out what they're willing to pay for it"
+          }
+        ]
+      },
+      {
+        "meeting": "TS3012b",
+        "kind": "decision",
+        "topic": "Universal remote control",
+        "text": "The team decided to build a universal remote control rather than a device-specific one.",
+        "owner": "",
+        "evidence": [
+          {
+            "id": "TS3012b-139",
+            "speaker": "A",
+            "quote": "I think we should go for universal, because apparently we're a separate company making separate c remote controls to sell to a lot of diverse people."
+          },
+          {
+            "id": "TS3012b-145",
+            "speaker": "A",
+            "quote": "Okay, universal is good. Speech recognition, I think it's very hard, because we're selling across multiple countries. So I think implementing speech recognition is such a small um apparatus, it's very hard to do."
+          }
+        ]
+      },
+      {
+        "meeting": "TS3012b",
+        "kind": "decision",
+        "topic": "Target demographic under 40",
+        "text": "Per updated project requirements, the remote targets younger consumers under 40 rather than older users.",
+        "owner": "",
+        "evidence": [
+          {
+            "id": "TS3012b-91",
+            "speaker": "A",
+            "quote": "with this new product we want to appeal to younger people, which are um the younger people were defined under forty."
+          },
+          {
+            "id": "TS3012b-163",
+            "speaker": "A",
+            "quote": "Well, we're not we're not targeting older people, we should remember that. Everything we target is under forty, so."
+          }
+        ]
+      },
+      {
+        "meeting": "TS3012b",
+        "kind": "decision",
+        "topic": "Corporate branding and colours",
+        "text": "The design must keep the corporate black-and-yellow colours, logo, and slogan recognisable.",
+        "owner": "",
+        "evidence": [
+          {
+            "id": "TS3012b-97",
+            "speaker": "A",
+            "quote": "And one thing that should be important is that the corporate l colour and slogan are recognisable, which is apparently black and yellow"
+          }
+        ]
+      },
+      {
+        "meeting": "TS3012b",
+        "kind": "decision",
+        "topic": "Changeable covers",
+        "text": "The team agreed to use changeable covers so users can customize the remote's appearance.",
+        "owner": "",
+        "evidence": [
+          {
+            "id": "TS3012b-99",
+            "speaker": "A",
+            "quote": "why not just steal Nokia's idea and just make changeable covers for your"
+          },
+          {
+            "id": "TS3012b-363",
+            "speaker": "A",
+            "quote": "Covers is covers is good. Yeah, it's Oh we can save this. Up and saved. We even saved the ant. Um Okay. So what we have is you have I think you have to do a lot of work on if it's possible for the cost."
+          }
+        ]
+      },
+      {
+        "meeting": "TS3012b",
+        "kind": "decision",
+        "topic": "Locator beep with TV-attached button",
+        "text": "The team agreed to include a locator beep triggered by a small separate button or box attached to the TV.",
+        "owner": "",
+        "evidence": [
+          {
+            "id": "TS3012b-123",
+            "speaker": "A",
+            "quote": "the beep is a very simple thing to imple implement, just make a button on your T_V_ and just hit the button, it beeps somewhere. I think it's easy to implement, we should go for that."
+          },
+          {
+            "id": "TS3012b-135",
+            "speaker": "A",
+            "quote": "A slap-on sticker. Oh, you mean as like a separate thing you can attach to your T_V_. Yeah, that could be possible. A little little box you can attach to your T_V_ is fine then, okay."
+          }
+        ]
+      },
+      {
+        "meeting": "TS3012b",
+        "kind": "decision",
+        "topic": "Durability and fade-proof buttons",
+        "text": "The team agreed to increase durability and prevent button symbols from fading.",
+        "owner": "",
+        "evidence": [
+          {
+            "id": "TS3012b-75",
+            "speaker": "A",
+            "quote": "So we agree on the the part that we need to get something on the on the remote to find it somewhere and increase it the durability of of the thing"
+          }
+        ]
+      },
+      {
+        "meeting": "TS3012b",
+        "kind": "decision",
+        "topic": "Fewer buttons and basic layout",
+        "text": "The team settled on using very few buttons focused on basic functions, with the power button on top and channel and volume controls in the main area.",
+        "owner": "",
+        "evidence": [
+          {
+            "id": "TS3012b-286",
+            "speaker": "A",
+            "quote": "I think the bu the power button should be on top, 'cause it's the first thing you do, turn it on. So power button on top."
+          },
+          {
+            "id": "TS3012b-412",
+            "speaker": "A",
+            "quote": "Yeah, so we don't want we want very little buttons, just the buttons you use a lot."
+          },
+          {
+            "id": "TS3012b-542",
+            "speaker": "A",
+            "quote": "So we have channel buttons here. I'm just drawing something uh. Uh I think this would this would look cool. You could have it for example small buttons here for some extra functions, so if your basic function's here, we should like we decided before, programmes up and down,"
+          }
+        ]
+      },
+      {
+        "meeting": "TS3012b",
+        "kind": "decision",
+        "topic": "Teletext button retained as secondary",
+        "text": "The team decided not to remove the teletext button, but to keep it small or secondary because teletext is no longer important.",
+        "owner": "",
+        "evidence": [
+          {
+            "id": "TS3012b-89",
+            "speaker": "A",
+            "quote": "Well, I don't think we should remove the button, because there are always people who are using it. But I don't think it should be very it should be one of the big buttons for example."
+          },
+          {
+            "id": "TS3012b-394",
+            "speaker": "B",
+            "quote": "Where would we want the uh teletext button? Because we decided that it's n not that important."
+          }
+        ]
+      },
+      {
+        "meeting": "TS3012b",
+        "kind": "action",
+        "topic": "Research costs, space, durability, and charging",
+        "text": "C will investigate production costs, component space constraints, durable materials, rechargeable/docking options, and the feasibility of LCD screens and speech recognition.",
+        "owner": "C",
+        "evidence": [
+          {
+            "id": "TS3012b-155",
+            "speaker": "A",
+            "quote": "Um well you should you should look into the in into the materials that are real durable."
+          },
+          {
+            "id": "TS3012b-343",
+            "speaker": "C",
+            "quote": "Yes. I'm going to try to find that out. I'm not sure if there's information available on this, but"
+          },
+          {
+            "id": "TS3012b-363",
+            "speaker": "A",
+            "quote": "Covers is covers is good. Yeah, it's Oh we can save this. Up and saved. We even saved the ant. Um Okay. So what we have is you have I think you have to do a lot of work on if it's possible for the cost."
+          }
+        ]
+      },
+      {
+        "meeting": "TS3012b",
+        "kind": "action",
+        "topic": "Create and share interface designs",
+        "text": "B will draw up design ideas for the button layout and distinct shape, post them on the project share, and present them at the next meeting.",
+        "owner": "B",
+        "evidence": [
+          {
+            "id": "TS3012b-228",
+            "speaker": "B",
+            "quote": "I'll put some on paper and present them next time uh the ideas that I have."
+          },
+          {
+            "id": "TS3012b-400",
+            "speaker": "A",
+            "quote": "Yeah, draw us up some some designs of of possible just keep in mind that the important buttons should be on top and either big, so the more less important"
+          },
+          {
+            "id": "TS3012b-406",
+            "speaker": "A",
+            "quote": "Or just po post your designs from time to time on the product share."
+          }
+        ]
+      },
+      {
+        "meeting": "TS3012b",
+        "kind": "action",
+        "topic": "Trend-watching and willingness to pay",
+        "text": "D will conduct trend-watching on what young consumers want, whether rechargeable remotes matter, and how much customers are willing to pay.",
+        "owner": "D",
+        "evidence": [
+          {
+            "id": "TS3012b-184",
+            "speaker": "A",
+            "quote": "I want some you should do some trend-watching, because even if we're if we're gonna do those covers and everything, what people really want"
+          },
+          {
+            "id": "TS3012b-350",
+            "speaker": "A",
+            "quote": "I'm not sure, you should find out if it's if rechargeable is important."
+          },
+          {
+            "id": "TS3012b-365",
+            "speaker": "A",
+            "quote": "Maybe yeah, or maybe you can find out i what people are willing to pay. We are going for twenty five Euros sales price, but just try to find out what they're willing to pay for it, because if they're willing to pay more, we could lose a little profit and maybe attract more customers, uh we just have to see what it looks like."
+          }
+        ]
+      },
+      {
+        "meeting": "TS3012b",
+        "kind": "action",
+        "topic": "Product name brainstorming",
+        "text": "Everyone agreed to think of a product name for the remote control rather than using a vague serial number.",
+        "owner": "all",
+        "evidence": [
+          {
+            "id": "TS3012b-556",
+            "speaker": "C",
+            "quote": "let's give this uh a name, and not like some vague serial number that no one understands, like with cars. Shall we all try uh to think about a name?"
+          }
+        ]
+      },
+      {
+        "meeting": "TS3012b",
+        "kind": "proposal",
+        "topic": "LCD screen",
+        "text": "An LCD screen (or simpler text-only display) was proposed based on customer demand, pending cost and space research.",
+        "owner": "",
+        "evidence": [
+          {
+            "id": "TS3012b-506",
+            "speaker": "A",
+            "quote": "About the L_C_D_s thing. Well if it if it's if it's possible wi if it's not too expensive, we should include it, because it's it's cool."
+          },
+          {
+            "id": "TS3012b-552",
+            "speaker": "A",
+            "quote": "Just to do research into both, w what it costs and what it takes for space."
+          }
+        ]
+      },
+      {
+        "meeting": "TS3012b",
+        "kind": "proposal",
+        "topic": "Speech recognition",
+        "text": "Speech recognition was proposed from user research; despite concerns over multiple languages and immature technology, it remains open pending cost and space research.",
+        "owner": "",
+        "evidence": [
+          {
+            "id": "TS3012b-145",
+            "speaker": "A",
+            "quote": "Speech recognition, I think it's very hard, because we're selling across multiple countries. So I think implementing speech recognition is such a small um apparatus, it's very hard to do."
+          },
+          {
+            "id": "TS3012b-435",
+            "speaker": "D",
+            "quote": "Um they want to pay for an L_C_D_ screen and speech recognition."
+          },
+          {
+            "id": "TS3012b-552",
+            "speaker": "A",
+            "quote": "Just to do research into both, w what it costs and what it takes for space."
+          }
+        ]
+      },
+      {
+        "meeting": "TS3012b",
+        "kind": "proposal",
+        "topic": "Menu button for advanced settings",
+        "text": "Putting advanced audio and display settings under a single menu button was proposed, pending research on whether universal remotes can access built-in menus across TV brands.",
+        "owner": "",
+        "evidence": [
+          {
+            "id": "TS3012b-188",
+            "speaker": "A",
+            "quote": "So I think it should be have less or l very little buttons and maybe a second second level menu for the advanced things."
+          },
+          {
+            "id": "TS3012b-214",
+            "speaker": "A",
+            "quote": "we need to put some research into that if if we can open the menu, I think it's possible, just the way how to."
+          }
+        ]
+      },
+      {
+        "meeting": "TS3012b",
+        "kind": "proposal",
+        "topic": "Locator LED flash for deaf users",
+        "text": "C proposed adding a flashing LED light to the locator for deaf users, though battery drain and visibility in furniture were raised as concerns.",
+        "owner": "C",
+        "evidence": [
+          {
+            "id": "TS3012b-256",
+            "speaker": "C",
+            "quote": "Perhaps we should also make uh something like a flash on it, if you if it's lost, for people that are deaf. They they won't hear the the beep."
+          },
+          {
+            "id": "TS3012b-265",
+            "speaker": "B",
+            "quote": "We could make a combination that it goes beep and that you that some light lights up."
+          }
+        ]
+      },
+      {
+        "meeting": "TS3012b",
+        "kind": "proposal",
+        "topic": "Exchangeable rubber button sleeve",
+        "text": "C proposed making the changeable cover a single Nokia-style removable rubber sleeve including the buttons to address symbol fading, which remains to be evaluated.",
+        "owner": "C",
+        "evidence": [
+          {
+            "id": "TS3012b-175",
+            "speaker": "C",
+            "quote": "we can make something that you can only remove the sleeve. Know what I mean? It works the same as a Nokia telephone"
+          },
+          {
+            "id": "TS3012b-179",
+            "speaker": "A",
+            "quote": "Either either change both the buttons and and the cover or just the cover, I'm not sure which which is easier, so"
+          }
+        ]
+      },
+      {
+        "meeting": "TS3012b",
+        "kind": "proposal",
+        "topic": "Favourite channel auto-recognition button",
+        "text": "D proposed a favourite channel button that automatically learns and remembers the user's most-watched channel.",
+        "owner": "D",
+        "evidence": [
+          {
+            "id": "TS3012b-39",
+            "speaker": "D",
+            "quote": "a button for my favourite channel, so I can uh I dunno, so I can zap to my uh f uh quick uh to my favourite channel"
+          },
+          {
+            "id": "TS3012b-40",
+            "speaker": "A",
+            "quote": "it just remembers the channel that you are on most, for example."
+          }
+        ]
+      },
+      {
+        "meeting": "TS3012b",
+        "kind": "disagreement",
+        "topic": "Charging method: base station vs. wire",
+        "text": "A favoured a small flat charging base station placed on the TV, while C argued a base station costs too much and a simple wire like a PDA is better.",
+        "owner": "",
+        "evidence": [
+          {
+            "id": "TS3012b-325",
+            "speaker": "A",
+            "quote": "I think it's uh it's a pretty good idea to have uh like sort of a maybe a base station that you put on the T_V_."
+          },
+          {
+            "id": "TS3012b-328",
+            "speaker": "C",
+            "quote": "But I think that will cost a lot. Uh a normal wire would be better. Like a like a P_D_A_, a hand-held."
+          }
+        ]
+      },
+      {
+        "meeting": "TS3012b",
+        "kind": "disagreement",
+        "topic": "LCD screen placement",
+        "text": "A proposed placing the LCD screen lower down so buttons remain on top, while D, C, and B preferred the LCD screen at the top; no final placement was chosen.",
+        "owner": "",
+        "evidence": [
+          {
+            "id": "TS3012b-486",
+            "speaker": "A",
+            "quote": "No? It's not that uh it's not the most important function, it's just an extra thing, it just you press the buttons on top, because your finger is on top."
+          },
+          {
+            "id": "TS3012b-496",
+            "speaker": "A",
+            "quote": "You would prefer it n Okay. So we have three people saying it should be on top."
+          },
+          {
+            "id": "TS3012b-499",
+            "speaker": "A",
+            "quote": "Okay, but then you would would s have to stack away your buttons somewhere else. Anyways."
+          }
+        ]
+      },
+      {
+        "meeting": "TS3012b",
+        "kind": "disagreement",
+        "topic": "Centre channel buttons and mute button placement",
+        "text": "A wanted the channel buttons in the centre and the mute button at the bottom, whereas B objected that centre buttons would be too small and preferred mute near the middle.",
+        "owner": "",
+        "evidence": [
+          {
+            "id": "TS3012b-289",
+            "speaker": "B",
+            "quote": "Okay, mute button. Is that somewhere here? Is that used often? The mute button? Do people use that often? 'Cause uh I'm pretty much accustomed to it right over here"
+          },
+          {
+            "id": "TS3012b-290",
+            "speaker": "A",
+            "quote": "Mute. Do we hardly I think it should be at the bottom somewhere."
+          },
+          {
+            "id": "TS3012b-522",
+            "speaker": "A",
+            "quote": "I think the channel button should be in the centre."
+          }
+        ]
+      },
+      {
+        "meeting": "TS3012b",
+        "kind": "report",
+        "topic": "Marketing user-preference report",
+        "text": "D presented user research on 100 people showing 75% find remotes ugly, basic buttons (power, channel, volume) are key, and users want locator beeps, LCD screens, speech recognition, and favourite-channel buttons.",
+        "owner": "D",
+        "evidence": [
+          {
+            "id": "TS3012b-18",
+            "speaker": "D",
+            "quote": "seventy five percent of the users find most remote controls ugly."
+          },
+          {
+            "id": "TS3012b-23",
+            "speaker": "D",
+            "quote": "the relevant buttons are the power, the channel selection and the volume selection. It's uh the most basic buttons that a user wants uh to use."
+          },
+          {
+            "id": "TS3012b-392",
+            "speaker": "D",
+            "quote": "here is my marketing report, maybe you ca you can look at uh that and"
+          }
+        ]
+      },
+      {
+        "meeting": "TS3012b",
+        "kind": "report",
+        "topic": "Technical and user functions presentation",
+        "text": "B presented user-aspect issues including lost remotes, unclear or faded symbols, and small buttons, recommending fewer and larger buttons, fade-proof symbols, and a sound locator.",
+        "owner": "B",
+        "evidence": [
+          {
+            "id": "TS3012b-58",
+            "speaker": "B",
+            "quote": "There are many buttons on a remote control which are not clear. Uh so either we lose those or we try to make it a little bit more clear. Uh also symbols tend to fade after a while."
+          },
+          {
+            "id": "TS3012b-65",
+            "speaker": "B",
+            "quote": "So this is basically what I h had in mind in the fade-proof symbols, locator, a sound"
+          },
+          {
+            "id": "TS3012b-67",
+            "speaker": "B",
+            "quote": "This I pretty much covered. So what we want to go to is not this one, but more less buttons, easy, some bigger buttons."
+          }
+        ]
+      },
+      {
+        "meeting": "TS3012b",
+        "kind": "report",
+        "topic": "Component design and materials presentation",
+        "text": "C presented internal electronics flow, standard fibreglass-and-copper circuit boards, cost savings from integrating connections, lightweight material preferences, and the added processor complexity of universal remotes.",
+        "owner": "C",
+        "evidence": [
+          {
+            "id": "TS3012b-80",
+            "speaker": "C",
+            "quote": "Normally, a circuit board is made of fibreglass uh and the wires are made of copper."
+          },
+          {
+            "id": "TS3012b-84",
+            "speaker": "C",
+            "quote": "if we make a circuit board with the the connections already on it, then that's cheaper."
+          },
+          {
+            "id": "TS3012b-86",
+            "speaker": "C",
+            "quote": "if you do want to make remote uh universal, then the processor has to uh make up a different Morse code when some button is pressed. That makes it much more complex"
+          }
+        ]
+      }
+    ]
+  },
+  "TS3012c:f8f0d007ce:models/gemini-4-hydrogen": {
+    "roles": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "marketing"
+    },
+    "items": [
+      {
+        "meeting": "TS3012c",
+        "kind": "decision",
+        "topic": "Energy source",
+        "text": "The team decided to use regular batteries instead of kinetic energy, solar cells, or a hand dynamo.",
+        "owner": "",
+        "evidence": [
+          {
+            "id": "TS3012c-383",
+            "speaker": "A",
+            "quote": "Okay, anyway. Uh energy, we choose regular regular batteries."
+          }
+        ]
+      },
+      {
+        "meeting": "TS3012c",
+        "kind": "decision",
+        "topic": "Chip type",
+        "text": "The remote control will use an advanced chip to support the LCD screen and advanced features.",
+        "owner": "",
+        "evidence": [
+          {
+            "id": "TS3012c-383",
+            "speaker": "A",
+            "quote": "The chip is advanced because we have the advanced features."
+          }
+        ]
+      },
+      {
+        "meeting": "TS3012c",
+        "kind": "decision",
+        "topic": "Case material",
+        "text": "The team chose rubber for the remote control case and ruled out wood and titanium.",
+        "owner": "",
+        "evidence": [
+          {
+            "id": "TS3012c-383",
+            "speaker": "A",
+            "quote": "The case, it will be the material will be rubber, suppose."
+          },
+          {
+            "id": "TS3012c-121",
+            "speaker": "A",
+            "quote": "You know what, th we're focusing very much on the covers now. I think it's just w now we're going for the basic design. If we wanna expand our options, f be fashionable, then we can get changeable covers. But I think the basic thing let's just rule out wood for now and continue."
+          }
+        ]
+      },
+      {
+        "meeting": "TS3012c",
+        "kind": "decision",
+        "topic": "Deluxe edition and LCD screen",
+        "text": "The team decided to pursue the deluxe edition featuring an LCD screen.",
+        "owner": "",
+        "evidence": [
+          {
+            "id": "TS3012c-265",
+            "speaker": "A",
+            "quote": "I think we're going towards the deluxe edition anyway, because that seems to be what the people want."
+          },
+          {
+            "id": "TS3012c-168",
+            "speaker": "A",
+            "quote": "Don't think it's an issue, okay. Oh let's go for let's say because it is uh very hot in n our target group I think, we should take it take it t to consideration to build an L_C_D_ screen in it."
+          }
+        ]
+      },
+      {
+        "meeting": "TS3012c",
+        "kind": "decision",
+        "topic": "Scroll-wheel",
+        "text": "After voting, the team decided not to include a scroll-wheel.",
+        "owner": "",
+        "evidence": [
+          {
+            "id": "TS3012c-635",
+            "speaker": "A",
+            "quote": "No r no scroll-wheel. Okay. Um I don't see anything missing really."
+          }
+        ]
+      },
+      {
+        "meeting": "TS3012c",
+        "kind": "decision",
+        "topic": "Push-buttons",
+        "text": "The team agreed to use normal push-buttons in the user interface.",
+        "owner": "",
+        "evidence": [
+          {
+            "id": "TS3012c-156",
+            "speaker": "C",
+            "quote": "Okay. So push-buttons we will use. Uh L_C_D_ screen?"
+          }
+        ]
+      },
+      {
+        "meeting": "TS3012c",
+        "kind": "decision",
+        "topic": "Speech recognition",
+        "text": "The team agreed to include speech recognition in the remote control.",
+        "owner": "",
+        "evidence": [
+          {
+            "id": "TS3012c-209",
+            "speaker": "B",
+            "quote": "Well, they b they basically can have speech recognition."
+          }
+        ]
+      },
+      {
+        "meeting": "TS3012c",
+        "kind": "decision",
+        "topic": "Remote recovery feature",
+        "text": "The remote control will implement a beep-and-flash feature to help users recover it.",
+        "owner": "",
+        "evidence": [
+          {
+            "id": "TS3012c-37",
+            "speaker": "A",
+            "quote": "we are going to implement the beep and the flash thing to recover your remote."
+          }
+        ]
+      },
+      {
+        "meeting": "TS3012c",
+        "kind": "decision",
+        "topic": "Remote colour",
+        "text": "The team decided to make the remote control yellow, despite B's reservation that a neutral base colour would work better with covers.",
+        "owner": "",
+        "evidence": [
+          {
+            "id": "TS3012c-593",
+            "speaker": "A",
+            "quote": "I think we should th then take it take yellow. Take what you c yellow remote control."
+          },
+          {
+            "id": "TS3012c-584",
+            "speaker": "B",
+            "quote": "it's better to have a neutral base colour than to have a flashy"
+          }
+        ]
+      },
+      {
+        "meeting": "TS3012c",
+        "kind": "decision",
+        "topic": "Target audience",
+        "text": "The team confirmed that their product is focused on younger consumers.",
+        "owner": "",
+        "evidence": [
+          {
+            "id": "TS3012c-125",
+            "speaker": "A",
+            "quote": "We're definitely focussing on the younger people, 'cause that was our main goal."
+          }
+        ]
+      },
+      {
+        "meeting": "TS3012c",
+        "kind": "decision",
+        "topic": "Body shape and curves",
+        "text": "The team agreed to round off the sharp edges of B's design and curve the whole remote body.",
+        "owner": "",
+        "evidence": [
+          {
+            "id": "TS3012c-367",
+            "speaker": "A",
+            "quote": "That's the one thing I'm also afraid of with this one because it the edges are really um they might stick out on the on the side for example. If you have a basic design, a little m a little smaller on the on the s on the edges, you could put more covers on it, y one one with square or um sharp corners if you want to. So M just round it off a little, I guess, because so we have more options I suppose."
+          },
+          {
+            "id": "TS3012c-475",
+            "speaker": "C",
+            "quote": "I would curve the whole. Like um like it hangs over your hand a little bit."
+          }
+        ]
+      },
+      {
+        "meeting": "TS3012c",
+        "kind": "decision",
+        "topic": "Button shapes",
+        "text": "The team settled on round general buttons, triangular navigation controls, and a square centre button, over C's mild preference for a round centre button.",
+        "owner": "",
+        "evidence": [
+          {
+            "id": "TS3012c-408",
+            "speaker": "B",
+            "quote": "But in that case the round buttons would be more appropriate."
+          },
+          {
+            "id": "TS3012c-415",
+            "speaker": "A",
+            "quote": "Triangles are good. Yeah, they're a little too big now. But Anyway, okay. So do you want for example a round button in the middle or square one?"
+          },
+          {
+            "id": "TS3012c-420",
+            "speaker": "A",
+            "quote": "We'll just take the take the round button, suppose. Uh oh the square button, sorry."
+          }
+        ]
+      },
+      {
+        "meeting": "TS3012c",
+        "kind": "decision",
+        "topic": "Removable covers",
+        "text": "Removable covers are not included in the basic design, though they remain a possible future option.",
+        "owner": "",
+        "evidence": [
+          {
+            "id": "TS3012c-649",
+            "speaker": "A",
+            "quote": "apparently that's not something we're working with in the basic design."
+          }
+        ]
+      },
+      {
+        "meeting": "TS3012c",
+        "kind": "decision",
+        "topic": "Extra control buttons",
+        "text": "The favourite channel function and an OK button will be assigned to the four extra buttons near the top.",
+        "owner": "",
+        "evidence": [
+          {
+            "id": "TS3012c-444",
+            "speaker": "D",
+            "quote": "One of the four. Uh, it's better than, I think."
+          },
+          {
+            "id": "TS3012c-459",
+            "speaker": "B",
+            "quote": "Oh, we're pretty much missing an okay button, but we have a button up there which is still free. So"
+          }
+        ]
+      },
+      {
+        "meeting": "TS3012c",
+        "kind": "decision",
+        "topic": "Internal component placement",
+        "text": "The batteries will be placed in the spacious upper section, while the LCD chip can be placed at the bottom and wired.",
+        "owner": "",
+        "evidence": [
+          {
+            "id": "TS3012c-509",
+            "speaker": "A",
+            "quote": "Uh I suppose we can put the batteries in here because it has the most space, for example."
+          },
+          {
+            "id": "TS3012c-518",
+            "speaker": "C",
+            "quote": "You can actually uh place a chip for the L_C_D_ screen and at the bottom, and and wire it."
+          }
+        ]
+      },
+      {
+        "meeting": "TS3012c",
+        "kind": "action",
+        "topic": "Final internal and external design",
+        "text": "B and C are to collaborate on the final internal and external design before the next meeting.",
+        "owner": "B,C",
+        "evidence": [
+          {
+            "id": "TS3012c-385",
+            "speaker": "A",
+            "quote": "apparently you guys, you should work together on the final design, both on internal and external design."
+          },
+          {
+            "id": "TS3012c-602",
+            "speaker": "A",
+            "quote": "You doodle a doodle us a nice nice design for for the next meeting, we'll be done."
+          }
+        ]
+      },
+      {
+        "meeting": "TS3012c",
+        "kind": "action",
+        "topic": "Market analysis",
+        "text": "D is to conduct market analysis on how the final design will perform in the market.",
+        "owner": "D",
+        "evidence": [
+          {
+            "id": "TS3012c-385",
+            "speaker": "A",
+            "quote": "you should probably find out how the product will fall into the market, how uh what's gonna happen with the final design"
+          },
+          {
+            "id": "TS3012c-566",
+            "speaker": "A",
+            "quote": "I think you have to stay here because we are supposed to five minutes to finish the meeting. Oh, like my the info that I got was that you're uh we're gonna work on our own because you're gonna do the market market uh analysing I'm supposed to do the little work on the year-end report. So the project report."
+          }
+        ]
+      },
+      {
+        "meeting": "TS3012c",
+        "kind": "action",
+        "topic": "Project report",
+        "text": "A is to work on the year-end project report.",
+        "owner": "A",
+        "evidence": [
+          {
+            "id": "TS3012c-566",
+            "speaker": "A",
+            "quote": "I'm supposed to do the little work on the year-end report. So the project report."
+          }
+        ]
+      },
+      {
+        "meeting": "TS3012c",
+        "kind": "report",
+        "topic": "Available components report",
+        "text": "C presented the complete list of available components, energy sources, curving options, materials, and interface choices, noting that no finance information was available.",
+        "owner": "C",
+        "evidence": [
+          {
+            "id": "TS3012c-28",
+            "speaker": "C",
+            "quote": "I have a complete list of uh everything that we can use, all the components that all av available."
+          }
+        ]
+      },
+      {
+        "meeting": "TS3012c",
+        "kind": "report",
+        "topic": "Design concepts report",
+        "text": "B presented two remote control designs: a futuristic squared deluxe edition with an LCD screen and a standard edition without one.",
+        "owner": "B",
+        "evidence": [
+          {
+            "id": "TS3012c-170",
+            "speaker": "B",
+            "quote": "I have two designs, one including uh an L_C_D_ screen, wh which is basically the deluxe edition. And then I also have a standard edition"
+          }
+        ]
+      },
+      {
+        "meeting": "TS3012c",
+        "kind": "report",
+        "topic": "Consumer research report",
+        "text": "D reported that young consumers want a fancier, easy-to-use, innovative remote with spongy rubber buttons, fruit/vegetable trends, and around 60 to 70 percent interest in voice recognition.",
+        "owner": "D",
+        "evidence": [
+          {
+            "id": "TS3012c-276",
+            "speaker": "D",
+            "quote": "Okay, now it must be there. Yeah, here it is. Oh yeah. Okay, uh the investigation turns out that the most appear uh people want um um uh look and feel likes is uh uh the s the same as before, but it must be w a little bit fancier than uh the the look of it. Um the second important thing is um the it must be uh technol technological uh innova vative. So that's the L_C_D_ screen is perfect, I think, and not uh"
+          },
+          {
+            "id": "TS3012c-278",
+            "speaker": "D",
+            "quote": "the buttons must a little bit spongy material. So uh rubber, I think uh th that's the best."
+          },
+          {
+            "id": "TS3012c-196",
+            "speaker": "D",
+            "quote": "Yeah. Mean of uh seventy percent I think. Uh I'm I have to look it up."
+          }
+        ]
+      },
+      {
+        "meeting": "TS3012c",
+        "kind": "disagreement",
+        "topic": "Talking-back speaker feature",
+        "text": "C suggested adding a talking-back confirmation feature using the sample sensor, while B questioned whether the remote needs to talk back, leaving it unresolved.",
+        "owner": "",
+        "evidence": [
+          {
+            "id": "TS3012c-542",
+            "speaker": "C",
+            "quote": "Uh the speaker sensor we already have, but s I don't know what they exactly mean by a sample sensor. Could it talk back? Like uh g uh give confirmation or something. I think it can. I think if you have a a speech recognition component, then a s speaking component is not that hard to to put in either."
+          },
+          {
+            "id": "TS3012c-547",
+            "speaker": "B",
+            "quote": "Yeah, but do you actually need the remote talking back?"
+          }
+        ]
+      },
+      {
+        "meeting": "TS3012c",
+        "kind": "disagreement",
+        "topic": "Speech recognition microphone placement",
+        "text": "B wanted the speech recognition microphone combined with the top transmitter, whereas A worried it might interfere with the transmitter and suggested bottom placement or a double microphone.",
+        "owner": "",
+        "evidence": [
+          {
+            "id": "TS3012c-526",
+            "speaker": "B",
+            "quote": "Oh, basically the idea that I had was it to be pretty much in combination with the transmitter. 'Cause you can talk to it like this."
+          },
+          {
+            "id": "TS3012c-529",
+            "speaker": "A",
+            "quote": "I w thought maybe it's either be here or because it's mi it might interfere with the transmitter, I'm not sure."
+          }
+        ]
+      },
+      {
+        "meeting": "TS3012c",
+        "kind": "disagreement",
+        "topic": "Twelfth bottom keypad button",
+        "text": "A wanted a twelfth button next to zero so nothing looks missing, while B argued twelve keypad buttons are confusing because users expect eleven.",
+        "owner": "",
+        "evidence": [
+          {
+            "id": "TS3012c-450",
+            "speaker": "B",
+            "quote": "Because it's a little bit confusing to have twelve buttons down there, because you're only accustomed to eleven, I'd say."
+          },
+          {
+            "id": "TS3012c-452",
+            "speaker": "A",
+            "quote": "think this looks rather like like there's something missing for example."
+          }
+        ]
+      },
+      {
+        "meeting": "TS3012c",
+        "kind": "proposal",
+        "topic": "Chiquita sponsorship",
+        "text": "C proposed making a Chiquita-sponsored special edition of the yellow banana-like remote.",
+        "owner": "",
+        "evidence": [
+          {
+            "id": "TS3012c-498",
+            "speaker": "C",
+            "quote": "Maybe once we can make a special edition in according with Chiquita. Have ourselves sponsored."
+          }
+        ]
+      }
+    ]
+  }
+}
