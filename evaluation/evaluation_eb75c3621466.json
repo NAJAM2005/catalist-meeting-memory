@@ -1,0 +1,234 @@
+[
+  {
+    "id": 1,
+    "model": "models/gemini-3.1-flash-lite",
+    "team": "ES2016",
+    "question": "Which fashion theme did D report in meeting c, and which fruit and colour did C show in the final prototype?",
+    "response": {
+      "answer": "In meeting c, D reported that fruits and vegetables were the most important fashion theme for items like clothing and furniture. C's final prototype was designed in the shape of a banana and featured the corporate colour yellow.",
+      "citations": [
+        {
+          "meeting_id": "ES2016c",
+          "quote": "Okay. Yep. Can I have your cable please? Thanks. Okay so I was looking at trend-watching. Um unfortunately I wasn't given too much information. I was given a brief executive summary, and then an update on some recent fashion trends that we might like to look at. And then I'll just tell you some personal preferences that I got from that. Um okay the most important finding was that the fancy look-and-feel seems to be twice as important to the users as the current functional look-and-feel design, which I think we've kind of already discussed before. Um the second most important finding was that the remote should be technologically innovative. And again these are all things we've kind of already come up with on our own, but this just backs it up. And thirdly the remote would be easy to use. As far as fashion update, we've learned that fruits and vegetables will be the most important theme for cloths, shoes and furniture. So that might be a bit of a challenge to incorporate this into our remote, but we can try. Um and also, as opposed to last year, this year the material is expected to be spongy in feel. Okay so from that um, as we've already said, we need to focus on a fancy look-and-feel. Um I think we've already discovered that it's kind of hard to go away from the traditional rectangular design. But I think that, even if it's very subtle, we need to kind of trick our consumers, so they at least get the idea that they're getting something that's new and modern and sleek and Whether it's through the shape or the colours or all of that. Um for technologically innovative, we've talked about the tracking device. We brought up the idea of having two pieces, which we could discuss further. And Manuel had suggested um the energy source and the user interface, discussing some of those, um that we could change a little bit. We need to keep it simple, have limited buttons, which I think the two piece idea might be really beneficial for. Um we need to incorporate this fashion trend of fruits and vegetables. I don't know, I mean I guess the two options are if we had our remote in the shape of a fruit or vegetable. Yeah. Yeah. Right. Or with exterior designs. But my question is, I mean the stereotypically speaking, you kind of picture males with their remote controls, and I'm not sure how they'd feel about having fruity logos on the outside. So maybe we could have something that's somewhat removable, or I don't know, different options for female, male target groups."
+        },
+        {
+          "meeting_id": "ES2016d",
+          "quote": "There is our remo the banana. Um yeah basically we we st went with the colour yellow. Um working on the principle of a fruit which was mentioned, it's basically designed around a banana. Um but it would be held in such a fashion, where it is, obviously it wouldn't be that floppy 'cause this would be hard plastic. These would be like the rubber, the rubber grips. So that's so that would hopefully help with grip, or like the ergonomics of it. Um but all the controlling would be done with this scroll wheel. You have to use your imagination a little bit. And this here represents the screen, where you, where you'd go through."
+        },
+        {
+          "meeting_id": "ES2016c",
+          "quote": "and if it if it was done yellow, which is a company colour."
+        }
+      ]
+    },
+    "reference": "Fruit and vegetables; a yellow banana.",
+    "reference_turns": [
+      "ES2016c-6",
+      "ES2016d-6"
+    ],
+    "answer_score": null,
+    "citation_score": null
+  },
+  {
+    "id": 2,
+    "model": "models/gemini-3.1-flash-lite",
+    "team": "ES2016",
+    "question": "What selling price did A describe at kickoff, and what per-unit cost did A say they were supposed to meet in the final meeting?",
+    "response": {
+      "insufficient": "The provided transcript turns do not contain information regarding a specific selling price described by A at kickoff or a required per-unit cost mentioned by A in the final meeting."
+    },
+    "reference": "About €25 selling price and €12.50 cost.",
+    "reference_turns": [
+      "ES2016a-58",
+      "ES2016d-189"
+    ],
+    "answer_score": null,
+    "citation_score": null
+  },
+  {
+    "id": 3,
+    "model": "models/gemini-3.1-flash-lite",
+    "team": "TS3009",
+    "question": "What worldwide profit aim and unit selling price did the project manager announce at kickoff, and what logo did C describe on the final prototype?",
+    "response": {
+      "answer": "At the kickoff, the project manager announced a worldwide profit aim of 50 million Euros and a unit selling price of 25 Euros. C described the logo on the final prototype as being placed big in the middle of the titanium back, accompanied by the company slogan in an arc shape above it.",
+      "citations": [
+        {
+          "meeting_id": "TS3009a",
+          "quote": "We're we want to sell it at twenty five Euros internationally um so um but we dunno what exactly th i it is in dollars, but uh twenty five Euros. Our profit aim is, worldwide, fifty million Euros."
+        },
+        {
+          "meeting_id": "TS3009d",
+          "quote": "We thought about Yeah, uh the back is of course totally titanium. And we thought about the logo big in the middle. Just so again the double R_. We have then the logo on front and on the back. Maybe that's too much but you have to say uh say that if you think that way."
+        },
+        {
+          "meeting_id": "TS3009d",
+          "quote": "And the company slogan, we thought in a kind of arc shape uh above the logo. That's basically what we were thinking about, and"
+        }
+      ]
+    },
+    "reference": "€50 million worldwide profit aim, €25 selling price, double R logo.",
+    "reference_turns": [
+      "TS3009a-143",
+      "TS3009d-34"
+    ],
+    "answer_score": null,
+    "citation_score": null
+  },
+  {
+    "id": 4,
+    "model": "models/gemini-3.1-flash-lite",
+    "team": "TS3009",
+    "question": "Why did C originally favor titanium for the fixed parts, and what advantage for the case shape did C identify once titanium was dropped?",
+    "response": {
+      "failure": "Search limit reached without a verified answer."
+    },
+    "reference": "Strong appearance; a double curve became possible.",
+    "reference_turns": [
+      "TS3009c-320",
+      "TS3009d-443"
+    ],
+    "answer_score": null,
+    "citation_score": null
+  },
+  {
+    "id": 5,
+    "model": "models/gemini-3.1-flash-lite",
+    "team": "TS3006",
+    "question": "Which age group did A identify as the new market, and what feel did D say was fashionable for that audience in the subsequent trend presentation?",
+    "response": {
+      "answer": "A identified the new market as customers below forty years old. In his trend presentation, D described the fashionable look for this audience as incorporating \"fruit and vegetables\" themes, primary colors, and a \"spongey\" material feel.",
+      "citations": [
+        {
+          "meeting_id": "TS3006b",
+          "quote": "Our current customers are in the age group forty plus. And the new product should reach new markets, which is the customers below forty."
+        },
+        {
+          "meeting_id": "TS3006c",
+          "quote": "Ah. Yes. So welcome to the marketing presentation once again. Um this time about trendwatching. Uh well there has been inv investigation again, in the in the remote control market. Uh it shows a number of developments. Uh I will address them uh in a moment. Um fashion watch watchers uh have detected the trends for young public, because that's our public. Um well fruit and vegetables will be will be the most important theme for clothing, uh shoes and furniture. And the feel of the material is expected to be spongey. So um the developments I will address them oh yeah well this is the fruit and vegetables looks of fresh bright colours. So to give you an idea. Um well the developments? Uh development one. Uh well most important aspect for remote control happens to be a fancy look-and-feel. Instead of the current uh functional look-and-feel. Um well fancy stands for an original look-and-feel of the case and the interface. And the second most important aspect is that a remote control should be technological uh innovative. Um well it stands for the use of technical features that do not exist in current remote controls. I think we pretty much covered that with our screen and um and speech recognition, so I don't expect that to be a problem."
+        }
+      ]
+    },
+    "reference": "Customers below forty; a spongy feel.",
+    "reference_turns": [
+      "TS3006b-111",
+      "TS3006c-39"
+    ],
+    "answer_score": null,
+    "citation_score": null
+  },
+  {
+    "id": 6,
+    "model": "models/gemini-3.1-flash-lite",
+    "team": "TS3006",
+    "question": "What fraction of the selling price was production meant to cost, and how much did A say dropping direct number keys could save?",
+    "response": {
+      "insufficient": "The transcript mentions the target selling price (25 Euro) and the target production cost (half the selling price), but it does not contain information regarding how much money would be saved by dropping direct number keys."
+    },
+    "reference": "Half of selling price; €4.50 by skipping nine buttons.",
+    "reference_turns": [
+      "TS3006a-162",
+      "TS3006d-39"
+    ],
+    "answer_score": null,
+    "citation_score": null
+  },
+  {
+    "id": 7,
+    "model": "models/gemini-3.1-flash-lite",
+    "team": "IS1008",
+    "question": "Why did manufacturing rule out titanium for the case, and how did C say the chosen material would let customers vary its colour?",
+    "response": {
+      "answer": "Manufacturing eliminated titanium because they stated curved cases could not be made out of it. Christine suggested that customers could design their own wooden cases online, choosing features like color, similar to ordering a custom car.",
+      "citations": [
+        {
+          "meeting_id": "IS1008c",
+          "quote": "So um for the case, um we told we were making a specifica specific assumption that it would be curved in design. Course, you know, I wanted it to be expandable and shrinkable, but um that uh doesn't seem to b be one of the choic non-option we can uh we can really seriously explore, so then we were thinking about um rubber, but um unfortunately that's been eliminated because of the heat uh factor and th um there might be some problems with the m uh how it's uh goes with the board. Uh and uh then th plastic also has this problem of melting and it's brittle it gets brittle after a while, so um we still had titanium and and wood available, but um unfortunately uh uh titanium's also been eliminated uh, the m people in manufacturing said that you couldn't make d curved cases out of titanium, although how Apple did it with th PowerBook I'm not su quite sure but uh nevertheless um they've eliminated all of our options except wood."
+        },
+        {
+          "meeting_id": "IS1008c",
+          "quote": "So, this is our finding. And a as she said, it's an environmentally friendly uh material, so we're we're currently uh proposing, uh we'll get to all my personal preferences in just a second. So then there's this other matter of the chips and um well we could use a simple design on the board, but uh these simple chips, but that's only works for the bu you don't get very much um intelligence with this simple one. And um then there was the regular which I regret that I've forgotten exactly why I'm eliminating that one. Uh the other option was this advanced chip on print, and uh we liked th we we found that it it includes this infrared sender, which w 'member the beam was that was an important component of finding the right chip. And uh manufacturing has told us that they've um uh recently developed a uh a sensor and a speaker that would uh be integrated into this advanced chip on print, so uh we we uh now jumping right to our personal preferences um I I'd really think we should, you know, use some of uh some really exotic woods, like um, you know uh, well you guys come from tropical countries so you can kinda think of some trees and some nice woods. I think that people will might really want to design their own cases, you see, they could do sort of a this um three-dimensional design on the internet, and then they could submit their orders, kinda like you submit a custom car order, you know, and you can choose the colour and the size of the wheels and the colours of the leather and things like that, and then I uh think we should go with the solar cells as well as the um microphone and speaker on the advanced chip. So this is the findings of our research and my recommendations um for the new remote control w um would be to have um have it be made out of wood. Do you have any problems with that?"
+        }
+      ]
+    },
+    "reference": "Manufacturing said titanium could not make the curved case; the wood could be stained different colours.",
+    "reference_turns": [
+      "IS1008c-7",
+      "IS1008d-19"
+    ],
+    "answer_score": null,
+    "citation_score": null
+  },
+  {
+    "id": 8,
+    "model": "models/gemini-3.1-flash-lite",
+    "team": "IS1008",
+    "question": "Who introduced themselves as project manager at kickoff, and whom did that speaker name for the prototype presentation in the final meeting?",
+    "response": {
+      "answer": "Shrida Daseri introduced himself as the project manager at the kickoff meeting. In the final meeting, he stated that the prototype presentation would be given by Christine and Agnes.",
+      "citations": [
+        {
+          "meeting_id": "IS1008a",
+          "quote": "Hi guys uh good morning everybody here. And uh I want to introduce myself, uh my name is uh Shrida Daseri and uh I'm a project manager for this new project which we are going to discuss now. So I want to introduce first of all uh the names and the colleagues here. And what you're uh drawing?"
+        },
+        {
+          "meeting_id": "IS1008d",
+          "quote": "So this meeting agenda will be the detailed design meeting. And uh opening and uh P_M_s of the meet minutes, uh prototype presentation from uh Christine and uh Agnes."
+        }
+      ]
+    },
+    "reference": "Speaker A, Shrida Daseri; Christine and Agnes.",
+    "reference_turns": [
+      "IS1008a-1",
+      "IS1008d-3"
+    ],
+    "answer_score": null,
+    "citation_score": null
+  },
+  {
+    "id": 9,
+    "model": "models/gemini-3.1-flash-lite",
+    "team": "TS3012",
+    "question": "What production target did A give at kickoff, and what base colour and customization option did A propose to meet it in the final meeting?",
+    "response": {
+      "answer": "At kickoff, A set a production cost target of twelve and a half Euros. In the final meeting, to meet this budget constraint, A proposed a black base colour for the remote, with the option for users to purchase separate covers for customization.",
+      "citations": [
+        {
+          "meeting_id": "TS3012a",
+          "quote": "It should be light, okay. Um, let's see, where did I Let's skip that. Oh, this is it. Sorry, I skipped this sheet. What do we This Quick What we're going to Selling price, twenty five Euros. That's for you. The production price, twelve and a half Euros, approximately. Just go go for that. We'll reach the uh reach that profit."
+        },
+        {
+          "meeting_id": "TS3012d",
+          "quote": ". So I ju I took that out. So and so it's still stuck with thirteen, so I had to take out the special colour I suppose. And, yeah, I didn't see anything else I could take out. Yeah, I could take out the push-buttons, but we need those. So, generally what I came up with, in order to be cou to to have production cost of twelve and a half Euros, spe scrap speech recognition and the separate covers can account for the if people want it, we'll just then we'll do it in black. We'll just deliver it in black, have the it has all the function that it's supposed to have, and if you want it if you want the custom design, then you can buy the separate covers. You make it d orange or whatever you want."
+        },
+        {
+          "meeting_id": "TS3012d",
+          "quote": "It was a big issue, but I'll just go back. Uh let's just let's see what okay, let's just see what we no, we we have to be under twelve and a half. It it's not uh the project is a no-go if we go over twelve and a half, so."
+        }
+      ]
+    },
+    "reference": "About €12.50; deliver black with separately purchased covers.",
+    "reference_turns": [
+      "TS3012a-104",
+      "TS3012d-43"
+    ],
+    "answer_score": null,
+    "citation_score": null
+  },
+  {
+    "id": 10,
+    "model": "models/gemini-3.1-flash-lite",
+    "team": "TS3012",
+    "question": "Who preferred the curved shape in meeting c, and which speaker suggested losing the curve in the final meeting?",
+    "response": {
+      "failure": "Search limit reached without a verified answer."
+    },
+    "reference": "B preferred the curve; A suggested losing it.",
+    "reference_turns": [
+      "TS3012c-465",
+      "TS3012d-120"
+    ],
+    "answer_score": null,
+    "citation_score": null
+  }
+]

@@ -1,0 +1,25 @@
+{
+  "model": "models/gemini-3.1-flash-lite",
+  "signature": "efd15b84d74c9e84f2c410391133f647629c18849f44cbaa8c8748f6476eb395",
+  "answers": [
+    {
+      "question_id": "Q21",
+      "answer": "Participant C checked the component prices and reported a total cost of $15 for a version including all functions. In the end, the team decided to proceed without an LCD to reduce costs and simplify usage.",
+      "citations": [
+        {
+          "meeting_id": "IS1007c",
+          "quote": "So for my part I will check the prices the um the prices difference uh of what to use, where to use, and s uh and so on."
+        },
+        {
+          "meeting_id": "IS1007d",
+          "quote": "It's about so the total cost if you if you want all the fuct functionalities will be about uh fifteen dollars."
+        },
+        {
+          "meeting_id": "IS1007d",
+          "quote": "As our Programme Manager s Pro Project Manager says that without L_C_D_ it is going to reduce the cost also, and it's going to be much simpler to use."
+        }
+      ]
+    }
+  ],
+  "unanswered": {}
+}

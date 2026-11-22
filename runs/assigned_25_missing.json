@@ -1,0 +1,48 @@
+{
+  "model": "models/gemini-3.1-flash-lite",
+  "signature": "3e7250e9732b06665a25486b3fffb89dea3c6c18bbebe0fdbced7dc44a25320b",
+  "answers": [
+    {
+      "question_id": "Q15",
+      "answer": "The team's first full costing for their remote design was 15.5 Euros, which exceeded their 12.5 Euro budget limit. To reduce the cost, the team decided to remove the LCD screen from the design.",
+      "citations": [
+        {
+          "meeting_id": "ES2016a",
+          "quote": "'Kay. Um so we want it to be modern, fun, sturdy, um So our form and our function. Um we want it to be um easy to find. Um What else it what else do we want it to to do? So we want it to be universal. It's something that we're supposed to sell for about twenty five Euros um and you know, goals for profits are I think somewhere around uh fifty million Euros, what they wanna make on it, so."
+        },
+        {
+          "meeting_id": "ES2016d",
+          "quote": "Twelve and a half Euros is what supposed to cost us. Okay, so"
+        },
+        {
+          "meeting_id": "ES2016d",
+          "quote": "Okay. We're gonna leave that one blank because we run on a L_C_D_ and scroll. So our total is fifteen point five. Which I believe is"
+        }
+      ]
+    },
+    {
+      "question_id": "Q22",
+      "answer": "Member B suggested using a lithium battery, while other members initially preferred AAA batteries because they are lighter. In the end, the team chose to use a lithium battery because it is technologically advanced.",
+      "citations": [
+        {
+          "meeting_id": "ES2010a",
+          "quote": "Can you with a small lithium battery?"
+        },
+        {
+          "meeting_id": "ES2010c",
+          "quote": "I think triple A_, it'll be lighter."
+        },
+        {
+          "meeting_id": "ES2010d",
+          "quote": "Yeah, let's let's do a lithium."
+        }
+      ]
+    }
+  ],
+  "unanswered": {
+    "Q05": "Search limit reached without a verified answer.",
+    "Q08": "Search limit reached without a verified answer.",
+    "Q10": "Search limit reached without a verified answer.",
+    "Q24": "Search limit reached without a verified answer."
+  }
+}

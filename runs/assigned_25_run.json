@@ -1,0 +1,193 @@
+{
+  "model": "models/gemini-3.1-flash-lite",
+  "signature": "9ff971eb982a68b7386a41992e6f91a5e3f40a2b26ee7f4cd51a25accc532929",
+  "answers": [
+    {
+      "question_id": "Q01",
+      "answer": "The team dropped speech recognition and kept the LCD screen because losing the screen would have necessitated adding many extra buttons and ruined their design concept.",
+      "citations": [
+        {
+          "meeting_id": "TS3006d",
+          "quote": "Yep. Okay. Because if you d lose the L_C_D_ screen, we need a lot of Yeah. We need a lot of extra buttons."
+        },
+        {
+          "meeting_id": "TS3006d",
+          "quote": "We lose our whole concept. Uh so No we just We keep the L_C_D_."
+        },
+        {
+          "meeting_id": "TS3006d",
+          "quote": "Okay so we drop the speech. And drop it yeah? Okay. S Fo Four less Euros. So we still have three and a half Euro to lose."
+        }
+      ]
+    },
+    {
+      "question_id": "Q02",
+      "answer": "The team initially preferred a rubber material with a double-curved design, but ultimately switched to a solid plastic case with a single-curved design. This change was necessary to keep the project within its budget, as the preferred configuration was four Euros over budget, primarily due to the inclusion of an LCD and its required chip.",
+      "citations": [
+        {
+          "meeting_id": "ES2003c",
+          "quote": "Mm-hmm. Mm. Um I'm actually gonna be bold and go oo go straight for rubber um for reasons I'll go into uh in more detail."
+        },
+        {
+          "meeting_id": "ES2003c",
+          "quote": "So what it looks like to me is we'll use a large number of standard components, um, say something like um lithium ion battery, the kind that you find in most um small hand held devices now. Um Looks like we going for a double curved design. Um I don't know what cost implications there are in that. Um, looks like we're pretty much decided on some kind of flexible rubber. Though I'd have to say depending on how flexible it is, we might need to have some kind of inner frame."
+        },
+        {
+          "meeting_id": "ES2003d",
+          "quote": "Okay. No and which we will do very very shortly. Um. Okay. Slight problem we had was that we have an amazing four Euros over budget for what we were hoping to do. Um most of it stems from the use of the L_C_D_ which I think in the end accounted for about half of our expenditure because of course we required a chip as well. Um the only way to get this down was either to ditch the a L_C_D_, at which point we've removed a large part of how we were gonna interface, require more buttons, etcetera. Or what we did was that we um we as in I as I was quickly going over it was altering the actual structure. Um changing it to plastic and a solid unit with a single curve design would allow us to come back into the um proposed costs and we're just scraping it in, we've got point two of a Euro left over there. So we're just managing it really. Even then as well, um there was no criteria technically defined for a joystick so I've used what I think's appropriate. With any luck that won't mean that we've incurred more cost than we can actually afford to. It blows a lot of our really good ideas kind of slightly to one side, for example the possibility of having a U_S_B_ connection is definitely not viable now. Um."
+        }
+      ]
+    },
+    {
+      "question_id": "Q03",
+      "answer": "Speaker B first proposed replacing the titanium back with titanium-coloured plastic, and the team ultimately decided to replace the titanium with this cheaper material.",
+      "citations": [
+        {
+          "meeting_id": "TS3009d",
+          "quote": "Why why don't we replace the titanium with uh"
+        },
+        {
+          "meeting_id": "TS3009d",
+          "quote": "plastic coloured titanium, uh titanium-coloured plastic?"
+        },
+        {
+          "meeting_id": "TS3009d",
+          "quote": "So we have to use the ditch the titanium, I'm afraid."
+        }
+      ]
+    },
+    {
+      "question_id": "Q04",
+      "answer": "The team chose a combined energy source of batteries and solar cells. When the costs were added up, the total exceeded the budget, leading them to remove features such as the solar cells and voice recognition to lower production costs.",
+      "citations": [
+        {
+          "meeting_id": "TS3011c",
+          "quote": "So uh uh just uh the energy source is um the batteries and the solar. Okay."
+        },
+        {
+          "meeting_id": "TS3011d",
+          "quote": "Yeah, it's it's w way above um uh above the the the twelve Euro fifty. And what makes it very expensive is uh for example the solar cell. So I guess we should skip that, because it's not that important."
+        },
+        {
+          "meeting_id": "TS3011d",
+          "quote": "to make it just between the twelve Euro fifty, um then I did the following changes. Twelve Euro forty cents I came up with by leaving out the solar cells, um by not using the voice recognition feature, because it's uh it's a four Euro uh addition to the price. Um"
+        }
+      ]
+    },
+    {
+      "question_id": "Q06",
+      "answer": "The feature was ultimately not implemented because the team decided the remote's distinctive design would prevent it from getting lost, and C noted a technical difficulty in using infrared signals to find a remote if it were hidden under a settee. C raised the main objection, arguing that the remote would likely be under furniture where an infrared signal could not reach it.",
+      "citations": [
+        {
+          "meeting_id": "ES2008d",
+          "quote": "Right. Well we were we were talking about that a little bit when we got that email and we think that each of these are so distinctive, that it it's not just like another piece of technology around your house. It's gonna be somewhere that it can be seen. So we're we're not thinking that it's gonna be as critical to have the loss"
+        },
+        {
+          "meeting_id": "ES2008d",
+          "quote": "I think it would be difficult technologically, because if your if your remote's lost it's probably under the settee and in that case you can't you can't send an infrared sing signal to it to find it, s so it's"
+        }
+      ]
+    },
+    {
+      "question_id": "Q07",
+      "answer": "Ed (Speaker D) reported approximately two to three Euro per remote.",
+      "citations": [
+        {
+          "meeting_id": "IS1008c",
+          "quote": "What do you think Ed? Do you he liked the display in one of the concepts that you showed, um, do you know how much it costs, um, to to add a little display like this uh?"
+        },
+        {
+          "meeting_id": "IS1008d",
+          "quote": "It's not it doesn't say. We don't have the price up there, okay, so if we add approximately two to three Euro per"
+        },
+        {
+          "meeting_id": "IS1008d",
+          "quote": "remote, now we're up around about twelve, twelve and a half as to what uh the company had initially uh requested. Um"
+        }
+      ]
+    },
+    {
+      "question_id": "Q09",
+      "answer": "Team IS1002 initially worked with a selling price of 25 Euros before settling on a price range of 35 to 50 Euros. Speaker D was the most vocal advocate for marketing the remote as a higher-end, exclusive product, repeatedly suggesting a higher price tag.",
+      "citations": [
+        {
+          "meeting_id": "IS1002b",
+          "quote": "But there's also the potential for mark there's a market here for our lost teletext. For example someone that just goes to the shop that wants a replacement wants it as cheap as possible. Twenty-five Euros is the selling price, we really have to innovate here I guess."
+        },
+        {
+          "meeting_id": "IS1002c",
+          "quote": "'Kay. Thirty five to fifty Euros is our sales bracket okay. So the question is what we ca we make it for."
+        },
+        {
+          "meeting_id": "IS1002b",
+          "quote": "I don't I don't see it, and to me if I'm gonna market a product for b for beauty for for design I'm gonna I'm gonna try to market it at a much higher price. I need to make it special with a high price tag. I don't want to make it economically uh g uh competitive. I want I want to market it as exclusive. So I would market this product it at eighty-nine Euros and come up with some really beautiful exterior design or something th but but I don't think we have that flexibility."
+        }
+      ]
+    },
+    {
+      "question_id": "Q11",
+      "answer": "The project manager asked whether the new project requirements meant the remote was intended for television only, or if it also excluded DVD or internet capabilities. When the question came up again, the manager clarified that the device was not intended for DVD capabilities.",
+      "citations": [
+        {
+          "meeting_id": "ES2011b",
+          "quote": "You know actually our our new project requirements, I'm not sure if they meant o onl use only for television as in not for D_V_D_ or just not internet type things. So I'll I'll check that and update you on the next But we'll hold off on that 'cause"
+        },
+        {
+          "meeting_id": "ES2011c",
+          "quote": "We're, um, we're actually not having D_V_D_, that was one of th I I was sorry, I I meant to update you on that. Um."
+        }
+      ]
+    },
+    {
+      "question_id": "Q12",
+      "answer": "Voice recognition was excluded from the final design to stay within the head office budget specification, with the team concluding that the remote's distinctive design would make it sufficiently easy to locate.",
+      "citations": [
+        {
+          "meeting_id": "ES2004d",
+          "quote": "We can put in our recommendations. If we if we're working to head office specifications as this is what this project team's working for, we can put in our recommendations for what we've we've found and what we the consensus that we've come to as a result of the meetings. But we need to work to that specification to start with. And I think the voice recognition sounds wonderful, but our object is so distinctive that that in itself is gonna make it easier to locate as a f you know in a first instance. Um as you say, we can offer the voice recognition initially to business class customers and so"
+        },
+        {
+          "meeting_id": "ES2004d",
+          "quote": "I think we've done very well to get within budget and it still makes such an innovative item that I think people are really gonna want."
+        }
+      ]
+    },
+    {
+      "question_id": "Q13",
+      "answer": "Speech recognition was included in the team's final design. The team last reversed their position to include it during their fourth meeting (TS3004d).",
+      "citations": [
+        {
+          "meeting_id": "TS3004d",
+          "quote": "Are we doing the the speech recognition? Because we didn't have enough time to uh de um design the inside as well."
+        },
+        {
+          "meeting_id": "TS3004d",
+          "quote": "Okay yeah. Well then then we're gonna put it in."
+        }
+      ]
+    },
+    {
+      "question_id": "Q14",
+      "answer": "The team reached a final production cost total of 8.20 Euros, which did not include the voice recognition feature as they lacked a formal cost estimate for it.",
+      "citations": [
+        {
+          "meeting_id": "IS1009d",
+          "quote": "That's hmm? Eight point two, right? So, we looks like we are well within budget."
+        },
+        {
+          "meeting_id": "IS1009d",
+          "quote": "Um I just realised one thing. In the financing there was no room for our voice recogniser."
+        },
+        {
+          "meeting_id": "IS1009d",
+          "quote": "But I mean we have no way of presenting that to management as you know as a f finished, as a finished product and saying okay with the voice recogniser that costs so much."
+        }
+      ]
+    }
+  ],
+  "unanswered": {
+    "Q05": "Search limit reached without a verified answer.",
+    "Q08": "Search limit reached without a verified answer.",
+    "Q10": "Search limit reached without a verified answer."
+  }
+}
