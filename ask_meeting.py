@@ -111,6 +111,12 @@ def decision_queries(db, team, question):
         queries.append('euros euro cost costs price sell bracket budget')
     if re.search(r'\b(material|case|casing)\b', words):
         queries.append('case casing material solid plastic rubber wood metal')
+    if re.search(r'\b(?:recommend\w*|prefer\w*|suggest\w*|propos\w*|favou?r\w*|advocat\w*)\b', words):
+        # People state a recommendation in their own words ("my personal preference", "I think we
+        # could go for"), rarely with the question's verb, so search for that phrasing with the topic.
+        topics = [w for w in re.findall(r'[a-z0-9]+', words) if w not in STOP and len(w) > 3
+                  and not re.match(r'(?:recommend|prefer|suggest|propos|favou?r|advocat)', w)]
+        queries.append(' '.join(topics[:4] + ['personal', 'preference', 'prefer', 'recommend', 'suggest', 'go']))
     if re.search(r'\b(keep|kept|drop|dropped|cut)\b', words):
         topics = [w for w in re.findall(r'[a-z0-9]+', words) if w not in STOP]
         queries.append(' '.join(topics + ['keep', 'drop', 'lose', 'ditch']))
@@ -717,7 +723,10 @@ def decision_history(db, team, question, evidence):
     return mode, candidates
 
 
-def ask(db, team, question, key, model):
+def ask(db, team, question, key, model, allow_unverified=False):
+    """allow_unverified: if no draft passes review, return the draft with the fewest reviewer
+    concerns, clearly marked, instead of nothing (used for interactive runs, not graded runs)."""
+    best_rejected = None
     history = []
     evidence = {}
     timeline = {}
@@ -870,6 +879,8 @@ def ask(db, team, question, key, model):
                                 'State what was removed, not just what was considered.']
                 if not gaps:
                     return result
+                if best_rejected is None or len(gaps) < len(best_rejected[1]):
+                    best_rejected = (result, [str(g) for g in gaps])
                 rejected_drafts.add(draft)
                 if cards:
                     if card_feedback or searches:
@@ -903,6 +914,10 @@ def ask(db, team, question, key, model):
         except (ValueError, KeyError, TypeError, AttributeError) as error:
             print(f'Response {attempt+1} rejected: {error}', file=sys.stderr)
             history.append({'previous_action': action, 'feedback': str(error)})
+    if allow_unverified and best_rejected:
+        print('No draft passed review. Showing the best rejected draft, marked unverified.', file=sys.stderr)
+        result, concerns = best_rejected
+        return dict(result, verified=False, reviewer_concerns=concerns[:5])
     raise ValueError('Search limit reached without a verified answer.')
 
 
@@ -921,7 +936,7 @@ if __name__ == '__main__':
             model = choose_model(key)
             print('Using', model, file=sys.stderr)
             print('Retrieving evidence for the question...', file=sys.stderr)
-            print(json.dumps(ask(db, team, args.question, key, model), indent=2, ensure_ascii=False))
+            print(json.dumps(ask(db, team, args.question, key, model, allow_unverified=True), indent=2, ensure_ascii=False))
     except HTTPError as error:
         sys.exit(f'Gemini HTTP {error.code}: ' + error.read().decode(errors='replace').replace(key, '[hidden]')[:500])
     except (URLError, TimeoutError, ValueError, sqlite3.Error) as error:
