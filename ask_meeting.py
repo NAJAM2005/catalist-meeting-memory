@@ -51,10 +51,24 @@ def request(key, path, payload=None):
             with urlopen(req, timeout=int(os.getenv('GEMINI_TIMEOUT', '90'))) as response:
                 return json.load(response)
         except HTTPError as error:
-            if error.code != 503 or attempt == 3:
+            if error.code not in (429, 503) or attempt == 3:
                 raise
+            body = error.read().decode(errors='replace') if error.code == 429 else ''
             error.close()
-            reason = "Gemini is busy"
+            if error.code == 429:
+                if 'PerDay' in body:
+                    # Waiting will not help with a daily quota, so stop at once.
+                    raise ValueError('Daily Gemini quota for this model is used up. Switch model, e.g. '
+                                     '$env:GEMINI_MODEL = "gemini-3.5-flash-lite", and run again.')
+                # Per-minute quota: use Gemini's suggested wait if given, else 15, 30, 45 s.
+                hint = re.search(r'"retryDelay"\s*:\s*"(\d+)', body)
+                reason = "Rate limit reached"
+                delay = min(int(hint.group(1)) + 1, 60) if hint else 15 * (attempt + 1)
+            else:
+                reason, delay = "Gemini is busy", 5 * 2**attempt
+            print(f"{reason}. Retrying in {delay} seconds (attempt {attempt+2}/4)...", file=sys.stderr)
+            time.sleep(delay)
+            continue
         except (TimeoutError, URLError) as error:
             if isinstance(error, URLError) and not isinstance(error.reason, TimeoutError):
                 raise
